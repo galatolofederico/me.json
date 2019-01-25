@@ -1,0 +1,45 @@
+{
+    "anagraphic":{
+        "fullname":{
+            "first": "Federico",
+            "middle": "Andrea",
+            "last": "Galatolo"
+        },
+        "borndate":{
+            "day": 25,
+            "month": 3,
+            "year": 1993
+        },
+        "nationality": "Italian"
+    },
+    "onlineidentity":{
+        "emails": {
+            "primary": "galatolo.federico@gmail.com",
+            "institutional": "federico.galatolo@ing.unipi.it"
+        },
+        "profiles":{   
+            "github": "...",
+            "linkedin": "..."
+        }
+    },
+    "publications":{
+        "journals":{
+
+        },
+        "conferences":{
+
+        },
+        "chapters":{
+
+        },
+        "others":{
+
+        }
+    },
+    "projects":{
+
+    },
+    "thesis":{
+
+    }
+}
