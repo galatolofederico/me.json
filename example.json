@@ -22,20 +22,65 @@
             "linkedin": "https://www.linkedin.com/in/tony-stark-37599389/"
         }
     },
-    "publications":{
-        "journals":{
-
+    "publications":[
+        {
+            "title": "The Arc Reactor: How to build it from spare parts",
+            "authors": "Anthony Edward Stark",
+            "date": {
+                "day": 1,
+                "month": 5,
+                "year": 2008
+            },
+            "type": "journal",
+            "container": "Energy and Environmental Sciences",
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "",
+            "abstract": ""
         },
-        "conferences":{
-
+        {
+            "title": "A clever way to use nanotechnologies: the Iron Man suit",
+            "authors": "Anthony Edward Stark",
+            "date": {
+                "day": 25,
+                "month": 4,
+                "year": 2018
+            },
+            "type": "journal",
+            "container": "Nature Nanotechnology",
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "",
+            "abstract": ""
         },
-        "chapters":{
-
-        },
-        "others":{
-
+        {
+            "title": "Why we should seriously hard wire the laws of robotics: the case of study of \"Ultron\"",
+            "authors": "Anthony Edward Stark, Bruce Banner",
+            "date": {
+                "day": 22,
+                "month": 4,
+                "year": 2015
+            },
+            "type": "conference",
+            "container": "NIPS : Neural Information Processing Systems (NIPS)",
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "",
+            "abstract": ""
         }
-    },
+    ],
     "projects":{
 
     },
