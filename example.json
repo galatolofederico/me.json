@@ -1,25 +1,25 @@
 {
     "anagraphic":{
         "fullname":{
-            "first": "Federico",
-            "middle": "Andrea",
-            "last": "Galatolo"
+            "first": "Anthony",
+            "middle": "Edward",
+            "last": "Stark"
         },
         "borndate":{
-            "day": 25,
-            "month": 3,
-            "year": 1993
+            "day": 29,
+            "month": 5,
+            "year": 1970
         },
-        "nationality": "Italian"
+        "nationality": "American"
     },
     "onlineidentity":{
         "emails": {
-            "primary": "galatolo.federico@gmail.com",
-            "institutional": "federico.galatolo@ing.unipi.it"
+            "primary": "tony@starkindustries.com",
+            "institutional": "anthony.stark@mit.edu"
         },
         "profiles":{   
-            "github": "...",
-            "linkedin": "..."
+            "github": "https://github.com/TonyStark",
+            "linkedin": "https://www.linkedin.com/in/tony-stark-37599389/"
         }
     },
     "publications":{
