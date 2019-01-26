@@ -29,6 +29,8 @@ A (community?) effort to make **the** standard json schema to define yourself as
         * `year`
     * `type`: One of "journal" "conference" "chapter" "book" "whitepaper" 
     * `container`: Journal/conference/book name 
+    * `keywords`: Array of keywords
+    * `afferences`: Array of afferences
     * `volume`
     * `issue`
     * `pages`
