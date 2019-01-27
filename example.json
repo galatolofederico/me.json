@@ -100,10 +100,14 @@
             "abstract": ""
         }
     ],
-    "projects":{
-
-    },
-    "thesis":{
-
-    }
+    "projects":[
+        {
+            "name": "OpenARC",
+            "description": "Opensource 3D printable portable ARC reactor",
+            "link": "https://open.arc",
+            "afferences": ["starkindustries"]
+        }
+    ],
+    "education":[
+    ]
 }

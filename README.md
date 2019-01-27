@@ -41,5 +41,9 @@ A (community?) effort to make **the** standard json schema to define yourself as
     * `doi`
     * `link`
     * `abstract`
-
+* `projects`: Array of
+    * `name`
+    * `description`
+    * `link`: 
+    * `afferences`: Array of afferences
 
