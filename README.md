@@ -14,8 +14,13 @@ A (community?) effort to make **the** standard json schema to define yourself as
         * `month`
         * `year`
     * `nationality`
-* `onlineidentity`
-    * `website`: Link to personal website
+* `digitalidentity`
+    * `telephones` Array of
+        * `scope`: Telephone number scope (eg. "office", "private", ...)
+        * `value`: Telephone number
+    * `websites`: Array of
+        * `scope`: Website scope (eg. "personal", "institutional",... ) 
+        * `value`: Website link
     * `emails` Array of
         * `scope`: Email scope (eg. "primary", "secondary", "institutional",... )
         * `value`: Email address
