@@ -13,14 +13,27 @@
         "nationality": "American"
     },
     "onlineidentity":{
-        "emails": {
-            "primary": "tony@starkindustries.com",
-            "institutional": "anthony.stark@mit.edu"
-        },
-        "profiles":{   
-            "github": "https://github.com/TonyStark",
-            "linkedin": "https://www.linkedin.com/in/tony-stark-37599389/"
-        }
+        "website": "https://tony.stark",
+        "emails": [
+            {
+                "scope": "primary",
+                "value": "tony@starkindustries.com"
+            },
+            {
+                "scope": "institutional",
+                "value": "anthony.stark@mit.edu"
+            }
+        ],
+        "profiles":[
+            {
+                "platform": "github",
+                "value": "https://github.com/TonyStark"
+            },
+            {
+                "platform": "linkedin",
+                "value": "https://www.linkedin.com/in/tony-stark-37599389/"
+            }
+        ]
     },
     "publications":[
         {

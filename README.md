@@ -15,11 +15,13 @@ A (community?) effort to make **the** standard json schema to define yourself as
         * `year`
     * `nationality`
 * `onlineidentity`
-    * `emails` Object of Objects
-        * `primary`: Primary email
-        * `$scope`: $scope E-Mail
-    * `profiles` List of Object
-        * `$platform`: Link to profile on $platform
+    * `website`: Link to personal website
+    * `emails` Array of
+        * `scope`: Email scope (eg. "primary", "secondary", "institutional",... )
+        * `value`: Email address
+    * `profiles` Array of
+        * `platform`: Name of the platform (eg. "github", "linkedin", "twitter", ...)
+        * `value`: Link to the profile
 * `publications`: Array of
     * `title`: Title of the publication
     * `Authors`: Coma separated list of authors
