@@ -113,10 +113,15 @@
     ],
     "projects":[
         {
-            "name": "OpenARC",
+            "title": "OpenARC",
             "description": "Opensource 3D printable portable ARC reactor",
             "link": "https://open.arc",
-            "afferences": ["starkindustries"]
+            "afferences": ["starkindustries"],
+            "date":{
+                "day": 25,
+                "month": 12,
+                "year": 2010
+            }
         }
     ],
     "education":[
