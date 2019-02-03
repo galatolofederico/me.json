@@ -1,8 +1,10 @@
 # me.json
 
-A (community?) effort to make **the** standard json schema to define yourself as an academic human being
+Myself as a JSON document.
 
-## Documentation
+I use this file to generate my [personal site](https://galatolo.me). If you like it and if you want to make it yours follow the instructions in the [website repository](https://github.com/galatolofederico/galatolo.me)
+
+## Structure
 
 * `anagraphic`
     * `fullname`
@@ -15,20 +17,17 @@ A (community?) effort to make **the** standard json schema to define yourself as
         * `year`
     * `nationality`
 * `digitalidentity`
-    * `telephones` Array of
-        * `scope`: Telephone number scope (eg. "office", "private", ...)
-        * `value`: Telephone number
-    * `websites`: Array of
-        * `scope`: Website scope (eg. "personal", "institutional",... ) 
-        * `value`: Website link
-    * `emails` Array of
-        * `scope`: Email scope (eg. "primary", "secondary", "institutional",... )
-        * `value`: Email address
+    * `telephone`: Telephone number
+    * `websites`: Website link
+    * `emails`: Email address
     * `profiles` Array of
         * `platform`: Name of the platform (eg. "github", "linkedin", "twitter", ...)
-        * `value`: Link to the profile
+        * `link`: Link to the profile
+        * `description`: Very short description
+        * `icon`: Font-Awesome icon
 * `publications`: Array of
     * `title`: Title of the publication
+    * `name`: Unique name for permalinks
     * `Authors`: Coma separated list of authors
     * `date`: Release date
         * `day`
@@ -47,8 +46,25 @@ A (community?) effort to make **the** standard json schema to define yourself as
     * `link`
     * `abstract`
 * `projects`: Array of
-    * `name`
-    * `description`
-    * `link`: 
+    * `title`: Title of the project
+    * `name`: Unique name for permalinks
+    * `description`: Description of the project
+    * `link`: Link to the project
     * `afferences`: Array of afferences
+    * `date`: Date of start
+        * `day`
+        * `month`
+        * `year`
+* `lectures`: Array of
+    * `title`: Title of the lecture
+    * `name`: Unique name for permalinks
+    * `position`: Where the lecture was held
+    * `container`: Container in which the lecture was held
+    * `date`: Date
+        * `day`
+        * `month`
+        * `year`
+    * `resources` Array of
+        * `name`: Name of the resource
+        * `link`: Link to the resource
 
