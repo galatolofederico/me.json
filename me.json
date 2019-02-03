@@ -117,6 +117,7 @@
     "projects":[
         {
             "title": "Slope",
+            "name": "slope",
             "description": "Super Light Objective Processor Emulator (aka slope) is a very light and simple virtual machine for an object-oriented processor. The entire project was realized for an university exam, so it is not complete or usable in real life.",
             "afferences": ["unipi", "school-project"],
             "date": {
@@ -128,6 +129,7 @@
         },
         {
             "title": "Isaac Optimization Framework",
+            "name": "isaac",
             "description": "Isaac was born with the intent to fill the gap between high level description capabilities of the modern programming languages and the optimizations algorithms. With isaac you can model your optimization problems using all the expressive power of Python",
             "afferences": ["research", "personal"],
             "date": {
@@ -139,6 +141,7 @@
         },
         {
             "title": "Sacred Retrieve",
+            "name": "sacred-retrieve",
             "description": "Python script for easily retrieving and processing results from a sacred mongodb collection",
             "afferences": ["unipi", "research"],
             "date": {
@@ -150,6 +153,7 @@
         },
         {
             "title": "torchsnn",
+            "name": "torchsnn",
             "description": "pytorch implementation of the Stigmergic Neural Networks as presented in the paper Using stigmergy to incorporate the time into artificial neural networks.",
             "afferences": ["unipi", "research"],
             "date": {
@@ -161,6 +165,7 @@
         },
         {
             "title": "Pytorch MNIST Stroke",
+            "name": "pytorch-mnist-stroke",
             "description": "PyTorch helper Dataset class for downloading and parsing the MNIST digits stroke sequence data dataset.            ",
             "afferences": ["unipi", "research"],
             "date": {
@@ -172,6 +177,7 @@
         },
         {
             "title": "dotfiles",
+            "name": "dotfiles",
             "description": "Dotfiles files for my Arch Linux meta-distribution",
             "afferences": ["linux", "personal"],
             "date": {
@@ -183,6 +189,7 @@
         },
         {
             "title": "torchsm",
+            "name": "torchsm",
             "description": "Pytorch implementation of the Stigmergic Memory as presented in the paper Using stigmergy as a computational memory in the design of recurrent neural networks.",
             "afferences": ["unipi", "research"],
             "date": {
@@ -194,6 +201,7 @@
         },
         {
             "title": "torchreinforce",
+            "name": "torchreinforce",
             "description": "A pythonic implementation of the REINFORCE algorithm that is actually fun to use",
             "afferences": ["research", "personal"],
             "date": {
@@ -205,6 +213,7 @@
         },
         {
             "title": "icpram2019",
+            "name": "icpram2019",
             "description": "Implementation of the experiments proposed in the paper Using stigmergy as a computational memory in the design of recurrent neural networks.",
             "afferences": ["unipi", "research"],
             "date": {
@@ -216,6 +225,7 @@
         },
         {
             "title": "mike2018",
+            "name": "mike2018",
             "description": "Implementation of the experiments proposed in the paper Using stigmergy to incorporate the time into artificial neural networks.",
             "afferences": ["unipi", "research"],
             "date": {
@@ -227,6 +237,7 @@
         },
         {
             "title": "galatolo.me",
+            "name": "galatolo.me",
             "description": "Personal website realized with Angular 7 and Boostrap 4",
             "afferences": ["personal"],
             "date": {
@@ -234,7 +245,7 @@
                 "month": 2,
                 "year": 2019
             },
-            "link": "https://github.com/galatolofederico/personal-site"
+            "link": "https://github.com/galatolofederico/galatolo.me"
         }
     ],
     "lectures":[
