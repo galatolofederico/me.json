@@ -11,8 +11,8 @@
             "year": 1993
         },
         "nationality": "Italian",
-        "picture": "https://via.placeholder.com/250",
-        "bio": "Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, Very long description, ",
+        "picture": "assets/profile.png",
+        "bio": "I received my Bachelor Degree in &quot;Ingegneria Informatica&quot; in September 2016, then my Master Degree in &quot;Computer Engineering&quot; in September 2018 and finally I&apos;m now a PhD student at the Department of Information Engineering. I always loved solving problems, writing code and inventing new stuff and now I'm basically paid to do so.",
         "qualifications": ["PhD Student", "Machine Learning Engineer", "Computer Engineer", "Open Source Enthusiast"]
     },
     "digitalidentity":{
@@ -21,24 +21,28 @@
         "email": "federico.galatolo@ing.unipi.it",
         "profiles":[
             {
+                "platform": "Telegram",
+                "link": "https://telegram.me/galatolo",
+                "icon": "fab-telegram",
+                "description": "Send me a chat message"
+            },
+            {
                 "platform": "GitHub",
                 "link": "https://github.com/galatolofederico",
-                "icon": "github"
+                "icon": "fab-github",
+                "description": "The home of my projects!"
             },
             {
                 "platform": "LinkedIn",
                 "link": "https://www.linkedin.com/in/galatolo/",
-                "icon": "linkedin"
+                "icon": "fab-linkedin",
+                "description": "Offer me a job!"
             },
             {
                 "platform": "Instagram",
                 "link": "https://www.instagram.com/notsosocial/",
-                "icon": "instagram"   
-            },
-            {
-                "platform": "Telegram",
-                "link": "https://telegram.me/galatolo",
-                "icon": "telegram"
+                "icon": "fab-instagram",
+                "description": "I post a picture once a year"
             }
         ]
     },
@@ -168,7 +172,7 @@
         },
         {
             "title": "dotfiles",
-            "description": "Dotfiles for my Arch Linux meta-distribution",
+            "description": "Dotfiles files for my Arch Linux meta-distribution",
             "afferences": ["linux", "personal"],
             "date": {
                 "day": 24,
@@ -222,7 +226,7 @@
             "link": "https://github.com/galatolofederico/mike2018"
         },
         {
-            "title": "Personal Site",
+            "title": "galatolo.me",
             "description": "Personal website realized with Angular 7 and Boostrap 4",
             "afferences": ["personal"],
             "date": {
@@ -233,6 +237,115 @@
             "link": "https://github.com/galatolofederico/personal-site"
         }
     ],
-    "education":[
+    "lectures":[
+        {
+            "title": "Ionic 3 Framework",
+            "name" : "ionic2017",
+            "position": "Univeristy of Pisa - Pisa",
+            "container": "Programmazione",
+            "date":{
+                "day": 1,
+                "month": 11,
+                "year": 2017
+            },
+            "resources": [
+                {
+                    "name": "Slides",
+                    "link": "https://docs.google.com/presentation/d/15udEI1-UpJO8NN0Dp0Q6hUtO9whBzQFzakTiPh3WK4I/edit#slide=id.p"
+                }
+            ]
+        },
+        {
+            "title": "Versioning with GIT",
+            "name" : "git2018",
+            "position": "Univeristy of Pisa - Pisa",
+            "container": "Programmazione Avanzata",
+            "date":{
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "resources": [
+                {
+                    "name": "Slides PPTX",
+                    "link": "https://drive.google.com/open?id=1gG3p_lKpkcYDuKdkQPem4gnldAgZalmF"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://drive.google.com/open?id=1DFhDEY1Blnimg4WFudNcJwSjBPtHnGwo"
+                }
+            ]
+        },
+        {
+            "title": "Progressive Web Apps with Polymer",
+            "name" : "polymer2018",
+            "position": "Univeristy of Pisa - Pisa",
+            "container": "Programmazione Avanzata",
+            "date":{
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "resources": [
+                {
+                    "name": "Slides PPTX",
+                    "link": "https://drive.google.com/open?id=1G4ov_FALVkFQw2sdGQ87hkHi3eWUgD_r"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://drive.google.com/open?id=16wXQD8YcVsxT6hpMMOAdfvyn6njI8yeN"
+                },
+                {
+                    "name": "Code",
+                    "link": "https://github.com/galatolofederico/workshop-2018/tree/master/webapp"
+                }
+            ]
+        },
+        {
+            "title": "Webservices with Express and NodeJS",
+            "name" : "backend2018",
+            "position": "Univeristy of Pisa - Pisa",
+            "container": "Programmazione Avanzata",
+            "date":{
+                "day": 1,
+                "month": 11,
+                "year": 2018
+            },
+            "resources": [
+                {
+                    "name": "Slides PPTX",
+                    "link": "https://drive.google.com/open?id=1waE8yYv0IZrU5xx5ev3W4ybQTQJVkwPO"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://drive.google.com/open?id=1_iS3Eeu6PrOQy13PtbhDH9yC6CK2SU6V"
+                },
+                {
+                    "name": "Code",
+                    "link": "https://github.com/galatolofederico/workshop-2018/tree/master/webapp"
+                }
+            ]
+        },
+        {
+            "title": "Using stigmergy to incorporate the time into artificial neural networks",
+            "name" : "mike2018",
+            "position": "Technical University of Cluj-Napoca - Cluj-Napoca",
+            "container": "MIKE2018",
+            "date":{
+                "day": 20,
+                "month": 12,
+                "year": 2018
+            },
+            "resources": [
+                {
+                    "name": "Slides PPTX",
+                    "link": "https://drive.google.com/open?id=18pQfJji6-mAONBOCm6L5f2XCF2IYY_uJ"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://drive.google.com/open?id=1wq4hGgmGOMqwfyKpbb-V1NgvchYSyclC"
+                }
+            ]
+        }
     ]
 }
