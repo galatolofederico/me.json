@@ -13,28 +13,9 @@
         "nationality": "American"
     },
     "digitalidentity":{
-        "telephones":[
-            {
-                "scope": "office",
-                "value": "+1 8669"
-            }
-        ],
-        "websites":[
-            {
-                "scope": "institutional",
-                "value": "https://tony.stark"
-            }
-        ],
-        "emails": [
-            {
-                "scope": "primary",
-                "value": "tony@starkindustries.com"
-            },
-            {
-                "scope": "institutional",
-                "value": "anthony.stark@mit.edu"
-            }
-        ],
+        "telephone": "+1 8669",
+        "website": "https://tony.stark",
+        "email": "tony@starkindustries.com",
         "profiles":[
             {
                 "platform": "github",
