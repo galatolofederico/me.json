@@ -252,7 +252,7 @@
         {
             "title": "Ionic 3 Framework",
             "name" : "ionic2017",
-            "position": "Univeristy of Pisa - Pisa",
+            "position": "Univeristy of Pisa - Pisa (Italy)",
             "container": "Programmazione",
             "date":{
                 "day": 1,
@@ -269,7 +269,7 @@
         {
             "title": "Versioning with GIT",
             "name" : "git2018",
-            "position": "Univeristy of Pisa - Pisa",
+            "position": "Univeristy of Pisa - Pisa (Italy)",
             "container": "Programmazione Avanzata",
             "date":{
                 "day": 1,
@@ -290,7 +290,7 @@
         {
             "title": "Progressive Web Apps with Polymer",
             "name" : "polymer2018",
-            "position": "Univeristy of Pisa - Pisa",
+            "position": "Univeristy of Pisa - Pisa (Italy)",
             "container": "Programmazione Avanzata",
             "date":{
                 "day": 1,
@@ -315,7 +315,7 @@
         {
             "title": "Webservices with Express and NodeJS",
             "name" : "backend2018",
-            "position": "Univeristy of Pisa - Pisa",
+            "position": "Univeristy of Pisa - Pisa (Italy)",
             "container": "Programmazione Avanzata",
             "date":{
                 "day": 1,
@@ -340,8 +340,8 @@
         {
             "title": "Using stigmergy to incorporate the time into artificial neural networks",
             "name" : "mike2018",
-            "position": "Technical University of Cluj-Napoca - Cluj-Napoca",
-            "container": "MIKE2018",
+            "position": "Technical University of Cluj-Napoca - Cluj-Napoca (Romania)",
+            "container": "MIKE 2018",
             "date":{
                 "day": 20,
                 "month": 12,
@@ -355,6 +355,35 @@
                 {
                     "name": "Slides PDF",
                     "link": "https://drive.google.com/open?id=1wq4hGgmGOMqwfyKpbb-V1NgvchYSyclC"
+                },
+                {
+                    "name": "Code",
+                    "link": "https://github.com/galatolofederico/mike2018"
+                }
+            ]
+        },
+        {
+            "title": "Using stigmergy as a computational memory in the design of recurrent neural networks ",
+            "name" : "icpram2019",
+            "position": "Vienna House Diplomat Prague - Prague (Czech Republic)",
+            "container": "ICPRAM 2019",
+            "date":{
+                "day": 20,
+                "month": 2,
+                "year": 2019
+            },
+            "resources": [
+                {
+                    "name": "Slides Source Code",
+                    "link": "https://github.com/galatolofederico/icpram2019-presentation"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://github.com/galatolofederico/icpram2019-presentation/blob/master/presentation.pdf"
+                },
+                {
+                    "name": "Architecture Code",
+                    "link": "https://github.com/galatolofederico/icpram2019"
                 }
             ]
         }
