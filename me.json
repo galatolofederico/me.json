@@ -246,6 +246,18 @@
                 "year": 2019
             },
             "link": "https://github.com/galatolofederico/galatolo.me"
+        },
+        {
+            "title": "yadepage",
+            "name": "yadepage",
+            "description": "A reasonably secure offline deterministic password generator",
+            "afferences": ["personal"],
+            "date": {
+                "day": 9,
+                "month": 2,
+                "year": 2019
+            },
+            "link": "https://github.com/galatolofederico/yadepage"
         }
     ],
     "lectures":[
