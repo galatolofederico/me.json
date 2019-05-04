@@ -114,6 +114,80 @@
             "name": "galatolosm"
         }
     ],
+    "advised_theses":[
+        {
+            "title": "Progettazione di una rete neural ad attivazione stigmergica",
+            "author": "Fernando De Nitto",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 20,
+                "month": 2,
+                "year":  2018
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Analisi comparativa tra reti neurali ricorrenti e reti ad attivazione stigmergica",
+            "author": "Gabriele Martino",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 23,
+                "month": 4,
+                "year": 2018
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Sleep behavior assessment via heart rate tracker devices and stigmergic receptive fields",
+            "author": "Luca Venturini",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 25,
+                "month": 1,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Deep Learning of sleep quality based on ballistocardiographic sensors, stigmergic perceptrons and LSTM Networks",
+            "author": "Francesco Paolo Culcasi",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo, Filippo Palumbo",
+            "type": "MS",
+            "date": {
+                "day": 3,
+                "month": 5,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Analisi comparativa delle prestazioni di una Rete Neurale con Memoria Stigmergica",
+            "author": "Giuliano Zara",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 3,
+                "month": 5,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Effetti della regolarizzazione di Tikhonov e del dropout sulla rete neurale ricorrente a memoria stigmergica",
+            "author": "Mattia Campagna",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 3,
+                "month": 5,
+                "year": 2019
+            },
+            "link" : "#"
+        }
+    ],
     "projects":[
         {
             "title": "Slope",
