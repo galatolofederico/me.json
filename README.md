@@ -45,6 +45,16 @@ I use this file to generate my [personal site](https://galatolo.me). If you like
     * `doi`
     * `link`
     * `abstract`
+* `advised_theses`: Array of
+    * `title`: Thesis title
+    * `author`: Candidate name
+    * `advisors`: Thesis advisors
+    * `type`: Thesis type (BS,MS,PhD,...)
+    * `date`: Presentation date
+        * `day`
+        * `month`
+        * `year`
+    * `link`: Link to Document
 * `projects`: Array of
     * `title`: Title of the project
     * `name`: Unique name for permalinks
