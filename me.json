@@ -112,7 +112,29 @@
             "link": "http://www.iet.unipi.it/m.cimino/publications/cimino_pub68.pdf",
             "abstract": "In this paper, a novel architecture of Recurrent Neural Network (RNN) is designed and experimented. The proposed RNN adopts a computational memory based on the concept of stigmergy. The basic principle of a Stigmergic Memory (SM) is that the activity of deposit/removal of a quantity in the SM stimulates the next activities of deposit/removal. Accordingly, subsequent SM activities tend to reinforce/weaken each other, generating a coherent coordination between the SM activities and the input temporal stimulus. We show that, in a problem of supervised classification, the SM encodes the temporal input in an emergent representational model, by coordinating the deposit, removal and classification activities. This study lays down a basic framework for the derivation of a SM-RNN. A formal ontology of SM is discussed, and the SM-RNN architecture is detailed. To appreciate the computational power of an SM-RNN, comparative NNs have been selected and trained to solve the MNIST handwritten digits recognition benchmark in its two variants: spatial (sequences of bitmap rows) and temporal (sequences of pen strokes).",
             "name": "galatolosm"
-        }
+        },
+        {
+            "title": "Formal derivation of Mesh Neural Networks with their Forward-Only gradient Propagation",
+            "authors": "Federico A. Galatolo, Mario G. C. A. Cimino, Gigliola Vaglini",
+            "date": {
+                "day": 16,
+                "month": 5,
+                "year": 2019
+            },
+            "type": "journal",
+            "container": "preprint",
+            "keywords": ["mesh neural networks", "artificial inteligence", "neural networks"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://arxiv.org/abs/1905.06684",
+            "abstract": "This paper proposes the Mesh Neural Network (MNN), a novel architecture which allows neurons to be connected in any topology, to efficiently route information. In MNNs, information is propagated between neurons throughout a state transition function. State and error gradients are then directly computed from state updates without backward computation. The MNN architecture and the error propagation schema is formalized and derived in tensor algebra. The proposed computational model can fully supply a gradient descent process, and is suitable for very large scale NNs, due to its expressivity and training efficiency, with respect to NNs based on back-propagation and computational graphs.",
+            "name": "galatolomnn"
+        }    
     ],
     "advised_theses":[
         {
