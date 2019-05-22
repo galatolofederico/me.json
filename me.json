@@ -357,7 +357,7 @@
         },
         {
             "title": "st-sixel",
-            "name": "stsixel",
+            "name": "st-sixel",
             "description": "My personal fork of Simple Terminal with parametric external pipes and sixel graphic support",
             "afferences": ["personal"],
             "date": {
@@ -366,6 +366,18 @@
                 "year": 2019
             },
             "link": "https://github.com/galatolofederico/st-sixel"
+        },
+        {
+            "title": "mesh-neural-networks",
+            "name": "mesh-neural-networks",
+            "description": "Python implementation of the Mesh Neural Networks",
+            "afferences": ["unipi", "research"],
+            "date": {
+                "day": 15,
+                "month": 5,
+                "year": 2019
+            },
+            "link": "https://github.com/galatolofederico/mesh-neural-networks"
         }
     ],
     "lectures":[
