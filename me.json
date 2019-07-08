@@ -359,7 +359,7 @@
             "title": "st-sixel",
             "name": "st-sixel",
             "description": "My personal fork of Simple Terminal with parametric external pipes and sixel graphic support",
-            "afferences": ["personal"],
+            "afferences": ["personal", "linux"],
             "date": {
                 "day": 14,
                 "month": 5,
@@ -378,6 +378,18 @@
                 "year": 2019
             },
             "link": "https://github.com/galatolofederico/mesh-neural-networks"
+        },
+        {
+            "title": "pso",
+            "name": "pso",
+            "description": "Pretty Straightforward Opener: a portable POSIX-compliant shell script that is suppose to be a drop-in replacement for xdg-open",
+            "afferences": ["personal", "linux"],
+            "date": {
+                "day": 8,
+                "month": 7,
+                "year": 2019
+            },
+            "link": "https://github.com/galatolofederico/pso"
         }
     ],
     "lectures":[
