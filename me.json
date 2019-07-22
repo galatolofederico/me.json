@@ -208,6 +208,42 @@
                 "year": 2019
             },
             "link" : "#"
+        },
+        {
+            "title": "Estrazione di modelli di software project management basata su Process Mining e Cluster Analysis",
+            "author": "Susanna Sidoti",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 19,
+                "month": 7,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Modellazione in Algebra Tensoriale di uno sciame di droni alla ricerca di target e realizzazione su framework Python di un ambiente per il Reinforcement Learning della strategia di esplorazione",
+            "author": "Filippo Minutella",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 19,
+                "month": 7,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Progettazione e realizzazione di un modulo per il Deep Q Learning in Python",
+            "author": "Gianluca Serao",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 19,
+                "month": 7,
+                "year": 2019
+            },
+            "link" : "#"
         }
     ],
     "projects":[
