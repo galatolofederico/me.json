@@ -24,7 +24,7 @@
                 "platform": "Telegram",
                 "link": "https://telegram.me/galatolo",
                 "icon": "fab-telegram",
-                "description": "Send me a chat message"
+                "description": "Send me a chat message!"
             },
             {
                 "platform": "GitHub",
@@ -42,7 +42,7 @@
                 "platform": "Instagram",
                 "link": "https://www.instagram.com/notsosocial/",
                 "icon": "fab-instagram",
-                "description": "I post a picture once a year"
+                "description": "I post a picture once a year!"
             }
         ]
     },
