@@ -432,7 +432,7 @@
         {
             "title": "Ionic 3 Framework",
             "name" : "ionic2017",
-            "position": "Univeristy of Pisa - Pisa (Italy)",
+            "position": "University of Pisa - Pisa (Italy)",
             "container": "Programmazione",
             "date":{
                 "day": 1,
@@ -449,7 +449,7 @@
         {
             "title": "Versioning with GIT",
             "name" : "git2018",
-            "position": "Univeristy of Pisa - Pisa (Italy)",
+            "position": "University of Pisa - Pisa (Italy)",
             "container": "Programmazione Avanzata",
             "date":{
                 "day": 1,
@@ -470,7 +470,7 @@
         {
             "title": "Progressive Web Apps with Polymer",
             "name" : "polymer2018",
-            "position": "Univeristy of Pisa - Pisa (Italy)",
+            "position": "University of Pisa - Pisa (Italy)",
             "container": "Programmazione Avanzata",
             "date":{
                 "day": 1,
@@ -495,7 +495,7 @@
         {
             "title": "Webservices with Express and NodeJS",
             "name" : "backend2018",
-            "position": "Univeristy of Pisa - Pisa (Italy)",
+            "position": "University of Pisa - Pisa (Italy)",
             "container": "Programmazione Avanzata",
             "date":{
                 "day": 1,
@@ -570,7 +570,7 @@
         {
             "title": "A very informal introduction to Python",
             "name" : "python-informal",
-            "position": "Univeristy of Pisa - Pisa (Italy)",
+            "position": "University of Pisa - Pisa (Italy)",
             "container": "Software System Engineering",
             "date":{
                 "day": 7,
