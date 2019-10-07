@@ -566,6 +566,27 @@
                     "link": "https://github.com/galatolofederico/icpram2019"
                 }
             ]
+        },
+        {
+            "title": "A very informal introduction to Python",
+            "name" : "python-informal",
+            "position": "Univeristy of Pisa - Pisa (Italy)",
+            "container": "Software System Engineering",
+            "date":{
+                "day": 7,
+                "month": 10,
+                "year": 2019
+            },
+            "resources": [
+                {
+                    "name": "Slides Source Code",
+                    "link": "https://github.com/galatolofederico/python-very-informal-introduction"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://github.com/galatolofederico/python-very-informal-introduction/blob/master/slides.pdf"
+                }
+            ]
         }
     ]
 }
