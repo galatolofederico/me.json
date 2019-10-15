@@ -426,6 +426,18 @@
                 "year": 2019
             },
             "link": "https://github.com/galatolofederico/pso"
+        },
+        {
+            "title": "dwm",
+            "name": "dwm",
+            "description": "My personal fork of the Dynamic Window Manager",
+            "afferences": ["personal", "linux"],
+            "date": {
+                "day": 10,
+                "month": 10,
+                "year": 2019
+            },
+            "link": "https://github.com/galatolofederico/dwm"
         }
     ],
     "lectures":[
