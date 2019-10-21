@@ -599,6 +599,27 @@
                     "link": "https://github.com/galatolofederico/python-very-informal-introduction/blob/master/slides.pdf"
                 }
             ]
+        },
+        {
+            "title": "A very informal introduction to Git",
+            "name" : "git-informal",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Software System Engineering",
+            "date":{
+                "day": 21,
+                "month": 10,
+                "year": 2019
+            },
+            "resources": [
+                {
+                    "name": "Slides Source Code",
+                    "link": "https://github.com/galatolofederico/git-very-informal-introduction"
+                },
+                {
+                    "name": "Slides PDF",
+                    "link": "https://github.com/galatolofederico/git-very-informal-introduction/blob/master/slides.pdf"
+                }
+            ]
         }
     ]
 }
