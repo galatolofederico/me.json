@@ -19,5 +19,7 @@ jobs:
     - uses: actions/checkout@v1
     - run: sudo apt-get update
     - run: sudo apt-get -y install openssh-client sshpass
-    - run: sshpass -p "${{ secrets.PASSWORD }}" scp me.json ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.REMOTE_MEJSON }}
-      working-directory: ${{ GITHUB_WORKSPACE }}
+    - run: ls
+    - run: pwd
+    #- run: sshpass -p "${{ secrets.PASSWORD }}" scp me.json ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.REMOTE_MEJSON }}
+    #  working-directory: ${{ GITHUB_WORKSPACE }}
