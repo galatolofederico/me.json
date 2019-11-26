@@ -3,10 +3,8 @@ name: CI
 on: [push]
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v1
     - uses: actions/setup-node@v1
@@ -14,3 +12,10 @@ jobs:
         node-version: 8.x 
     - run: npm install 
     - run: npm test
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - run: apt-get update
+    - run: apt-get -y install openssh-client
+    - run: scp me.json ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.REMOTE_MEJSON }}
