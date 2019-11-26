@@ -620,6 +620,27 @@
                     "link": "https://github.com/galatolofederico/git-very-informal-introduction/blob/master/slides.pdf"
                 }
             ]
+        },
+        {
+            "title": "A very informal introduction to Docker",
+            "name" : "docker-informal",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Software System Engineering",
+            "date":{
+                "day": 25,
+                "month": 11,
+                "year": 2019
+            },
+            "resources": [
+                {
+                    "name": "Examples Source Code",
+                    "link": "https://github.com/galatolofederico/docker-informal"
+                },
+                {
+                    "name": "Slides",
+                    "link": "https://github.com/galatolofederico/docker-informal/blob/master/slides.pptx?raw=true"
+                }
+            ]
         }
     ]
 }
