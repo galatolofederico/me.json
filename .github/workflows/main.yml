@@ -20,4 +20,4 @@ jobs:
     - run: sudo apt-get update
     - run: sudo apt-get -y install openssh-client sshpass
     - run: sshpass -p "${{ secrets.PASSWORD }}" scp me.json ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.REMOTE_MEJSON }}
-      working-directory: ${{ github.workspace }}
+      working-directory: ${{ GITHUB_WORKSPACE }}
