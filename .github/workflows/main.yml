@@ -16,6 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - run: apt-get update
-    - run: apt-get -y install openssh-client
+    - run: sudo apt-get update
+    - run: sudo apt-get -y install openssh-client
     - run: scp me.json ${{ secrets.USERNAME }}@${{ secrets.HOST }}:${{ secrets.REMOTE_MEJSON }}
