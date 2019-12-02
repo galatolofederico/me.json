@@ -641,6 +641,27 @@
                     "link": "https://github.com/galatolofederico/docker-informal/blob/master/slides.pptx?raw=true"
                 }
             ]
+        },
+        {
+            "title": "Machine Learning Theory and Frameworks",
+            "name" : "ml-theory-and-frameworks",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Software System Engineering",
+            "date":{
+                "day": 2,
+                "month": 12,
+                "year": 2019
+            },
+            "resources": [
+                {
+                    "name": "Slides",
+                    "link": "https://github.com/galatolofederico/ml-theory-and-frameworks/raw/master/slides.pptx"
+                },
+                {
+                    "name": "Examples Source Code",
+                    "link": "https://github.com/galatolofederico/ml-theory-and-frameworks"
+                }
+            ]
         }
     ]
 }
