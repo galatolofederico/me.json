@@ -438,6 +438,18 @@
                 "year": 2019
             },
             "link": "https://github.com/galatolofederico/dwm"
+        },
+        {
+            "title": "covid-dashboard",
+            "name": "covid-dashboard",
+            "description": "Mobile friendly dashboard for the COVID-19 epidemic in italy",
+            "afferences": ["personal", "data"],
+            "date": {
+                "day": 10,
+                "month": 3,
+                "year": 2020
+            },
+            "link": "https://github.com/galatolofederico/covid-dashboard"
         }
     ],
     "lectures":[
