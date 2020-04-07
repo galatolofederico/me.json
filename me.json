@@ -450,6 +450,18 @@
                 "year": 2020
             },
             "link": "https://github.com/galatolofederico/covid-dashboard"
+        },
+        {
+            "title": "cnn-webcam-background-removal",
+            "name": "cnn-webcam-background-removal",
+            "description": "Real time webcam background removal with Mask R-CNN and OpenCV",
+            "afferences": ["personal", "cv"],
+            "date": {
+                "day": 7,
+                "month": 4,
+                "year": 2020
+            },
+            "link": "https://github.com/galatolofederico/rcnn-opencv-live-webcam-background-removal"
         }
     ],
     "lectures":[
