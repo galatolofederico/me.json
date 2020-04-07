@@ -674,6 +674,27 @@
                     "link": "https://github.com/galatolofederico/ml-theory-and-frameworks"
                 }
             ]
+        },
+        {
+            "title": "Tecniche di attacco avanzate: Return Oriented Programming (ROP) e Return to Libc (ret2libc)",
+            "name" : "CC20-rop-ret2libc",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "CyberChallenge 2020",
+            "date":{
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "resources": [
+                {
+                    "name": "Lecture Video",
+                    "link": "https://www.youtube.com/watch?v=mUOWsuLE_lI"
+                },
+                {
+                    "name": "Source Code",
+                    "link": "https://github.com/galatolofederico/CC20-rop-ret2libc"
+                }
+            ]
         }
     ]
 }
