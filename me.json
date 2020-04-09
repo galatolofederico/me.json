@@ -462,6 +462,18 @@
                 "year": 2020
             },
             "link": "https://github.com/galatolofederico/rcnn-opencv-live-webcam-background-removal"
+        },
+        {
+            "title": "a2c-te-nog",
+            "name": "a2c-te-nog",
+            "description": "Repository for \"Solving the scalarization issues of Advantage-based Reinforcement Learning Algorithms\"",
+            "afferences": ["unipi", "research"],
+            "date": {
+                "day": 9,
+                "month": 4,
+                "year": 2020
+            },
+            "link": "https://github.com/galatolofederico/a2c-te-nog"
         }
     ],
     "lectures":[
