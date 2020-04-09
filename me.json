@@ -134,7 +134,29 @@
             "link": "https://arxiv.org/abs/1905.06684",
             "abstract": "This paper proposes the Mesh Neural Network (MNN), a novel architecture which allows neurons to be connected in any topology, to efficiently route information. In MNNs, information is propagated between neurons throughout a state transition function. State and error gradients are then directly computed from state updates without backward computation. The MNN architecture and the error propagation schema is formalized and derived in tensor algebra. The proposed computational model can fully supply a gradient descent process, and is suitable for very large scale NNs, due to its expressivity and training efficiency, with respect to NNs based on back-propagation and computational graphs.",
             "name": "galatolomnn"
-        }    
+        },
+        {
+            "title": "Solving the scalarization issues of Advantage-based Reinforcement Learning Algorithms",
+            "authors": "Federico A. Galatolo, Mario G. C. A. Cimino, Gigliola Vaglini",
+            "date": {
+                "day": 9,
+                "month": 4,
+                "year": 2020
+            },
+            "type": "journal",
+            "container": "preprint",
+            "keywords": ["reinforcement learning", "artificial inteligence", "neural networks"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://arxiv.org/abs/2004.04120",
+            "abstract": "In this paper we investigate some of the issues that arise from the scalarization of the multi-objective optimization problem in the Advantage Actor Critic (A2C) reinforcement learning algorithm. We show how a naive scalarization leads to gradients overlapping and we also argue that the entropy regularization term just inject uncontrolled noise into the system. We propose two methods: one to avoid gradient overlapping (NOG) but keeping the same loss formulation; and one to avoid the noise injection (TE) but generating action distributions with a desired entropy. A comprehensive pilot experiment has been carried out showing how using our proposed methods speeds up the training of 210%. We argue how the proposed solutions can be applied to all the Advantage based reinforcement learning algorithms.",
+            "name": "galatoloa2c"
+        }   
     ],
     "advised_theses":[
         {
