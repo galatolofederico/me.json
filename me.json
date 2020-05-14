@@ -266,6 +266,126 @@
                 "year": 2019
             },
             "link" : "#"
+        },
+        {
+            "title": "Deep Learning of Sleep Quality based on Ballistocardiographic sensors, Stigmergic Perceptrons and LSTM Networks",
+            "author": "Filippo Culcasi",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Realizzazione in linguaggio Python di un sistema multiagente per lésplorazione bidimensionale basata su ant colony optimization ed integrazione con un meccanismo di apprendimento per rinforzo",
+            "author": "Daniele Semeraro",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Sperimentazione di Generative Adversarial Networks nella produzione musicale",
+            "author": "Giuseppe Pimpinella",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Realizzazione mediante autoencoder di un meccanismo di video manipolazione di tipo Deepfake",
+            "author": "Alberto Nobili",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Sperimentazione di architetture Single Image Super-Resolution GAN in ambiente Python",
+            "author": "Alice Nannini",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Modellazione e sviluppo del modello di flocking Boids sul framework Agent-Based Mesa Python",
+            "author": "Matteo Gambella",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Algoritmi per il Multi-Agent Reinforcement Learning basati su Deterministic Policy Gradient in ambiente Python",
+            "author": "Jacopo Cioni",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Realizzazione Python di un ambiente di esplorazione spaziale per droni orientato allápprendimento per rinforzo",
+            "author": "Diego Casu",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Natural Language Generation tramite Deep Neural Networks",
+            "author": "Alessio Bray",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Ricostruzione dello spettrogramma tramite architetture a reti neurali convoluzionali di tipo Context-Encoder",
+            "author": "Luca Barsellotti",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "BS",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2019
+            },
+            "link" : "#"
         }
     ],
     "projects":[
