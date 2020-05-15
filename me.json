@@ -13,7 +13,13 @@
         "nationality": "Italian",
         "picture": "https://galatolo.me/me.png",
         "bio": "I received my Bachelor Degree in &quot;Ingegneria Informatica&quot; in September 2016, then my Master Degree in &quot;Computer Engineering&quot; in September 2018 and finally I&apos;m now a PhD student at the Department of Information Engineering. I always loved solving problems, writing code and inventing new stuff and now I'm basically paid to do so.",
-        "qualifications": ["PhD Student", "Machine Learning Engineer", "Computer Engineer", "Open Source Enthusiast"]
+        "qualifications": ["PhD Student", "Machine Learning Engineer", "Computer Engineer", "Open Source Enthusiast"],
+        "address": {
+            "street": "Largo Lucio Lazzarino 1",
+            "city": "Pisa",
+            "cap": "56122",
+            "building": "Building A, Floor 2, Room 113"
+        }
     },
     "digitalidentity":{
         "telephone": "+390502217454",
