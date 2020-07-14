@@ -622,6 +622,18 @@
                 "year": 2020
             },
             "link": "https://github.com/galatolofederico/a2c-te-nog"
+        },
+        {
+            "title": "pygather",
+            "name": "pygather",
+            "description": "Quick and dirty python browser information gatherer redirector",
+            "afferences": ["personal", "script"],
+            "date": {
+                "day": 14,
+                "month": 7,
+                "year": 2020
+            },
+            "link": "https://github.com/galatolofederico/pygather"
         }
     ],
     "lectures":[
