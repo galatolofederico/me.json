@@ -626,7 +626,7 @@
         {
             "title": "pygather",
             "name": "pygather",
-            "description": "Quick and dirty python browser information gatherer redirector",
+            "description": "Quick python browser information gatherer redirector",
             "afferences": ["personal", "script"],
             "date": {
                 "day": 14,
@@ -634,7 +634,20 @@
                 "year": 2020
             },
             "link": "https://github.com/galatolofederico/pygather"
+        },
+        {
+            "title": "dii-presentation-latex",
+            "name": "dii-presentation-latex",
+            "description": "Beamer theme for the Department of Information Engineering of the University of Pisa.",
+            "afferences": ["personal", "latex", "beamer"],
+            "date": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "link": "https://github.com/galatolofederico/dii-presentation-latex"
         }
+        
     ],
     "lectures":[
         {
