@@ -646,8 +646,19 @@
                 "year": 2020
             },
             "link": "https://github.com/galatolofederico/dii-presentation-latex"
+        },
+        {
+            "title": "plotszoo",
+            "name": "plotszoo",
+            "description": "Personal well-documented collection of classes to easily make some common plots as well as retrieving data from multiple sources",
+            "afferences": ["personal", "data"],
+            "date": {
+                "day": 15,
+                "month": 11,
+                "year": 2020
+            },
+            "link": "https://github.com/galatolofederico/plotszoo"
         }
-        
     ],
     "lectures":[
         {
