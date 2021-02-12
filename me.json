@@ -937,6 +937,27 @@
                     "link": "https://github.com/galatolofederico/CC20-rop-ret2libc"
                 }
             ]
+        },
+        {
+            "title": "Blockchain: come funziona davvero?",
+            "name" : "webminar-blockchain-cfd",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Webminar: \"Dati personali e Blockchain tra rischi e opportunità\"",
+            "date":{
+                "day": 12,
+                "month": 2,
+                "year": 2021
+            },
+            "resources": [
+                {
+                    "name": "Lecture Video",
+                    "link": "https://youtu.be/mSXz1iNFWZg"
+                },
+                {
+                    "name": "Slides",
+                    "link": "https://drive.google.com/file/d/12SoTtc8GsUs7noG_UtZf3NbjVWWxZCAG/view?usp=sharing"
+                }
+            ]
         }
     ]
 }
