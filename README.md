@@ -11,7 +11,7 @@ I use this file to generate my [personal site](https://galatolo.me). If you like
         * `first` First Name
         * `middle` Space-separated list of middle names
         * `last` Last name
-    * `borndate`
+    * `birthday`
         * `day`
         * `month`
         * `year`
