@@ -540,7 +540,7 @@
         {
             "title": "galatolo.me",
             "name": "galatolo.me",
-            "description": "Personal website realized with Angular 7 and Boostrap 4",
+            "description": "galatolo.me docker deployment",
             "afferences": ["personal"],
             "date": {
                 "day": 1,
@@ -548,6 +548,18 @@
                 "year": 2019
             },
             "link": "https://github.com/galatolofederico/galatolo.me"
+        },
+        {
+            "title": "personal-website",
+            "name": "personal-website",
+            "description": "Angular 7 + Boostrap 4 personal website",
+            "afferences": ["personal"],
+            "date": {
+                "day": 1,
+                "month": 2,
+                "year": 2019
+            },
+            "link": "https://github.com/galatolofederico/personal-website"
         },
         {
             "title": "yadepage",
