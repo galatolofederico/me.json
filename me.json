@@ -128,7 +128,7 @@
                 "year": 2019
             },
             "type": "journal",
-            "container": "preprint",
+            "container": "Neural Processing Letters",
             "keywords": ["mesh neural networks", "artificial inteligence", "neural networks"],
             "afferences": ["unipi"],
             "volume" : "",
@@ -136,7 +136,7 @@
             "pages": "",
             "issn": "",
             "isbn": "",
-            "doi": "",
+            "doi": "10.1007/s11063-021-10490-1",
             "link": "https://arxiv.org/abs/1905.06684",
             "abstract": "This paper proposes the Mesh Neural Network (MNN), a novel architecture which allows neurons to be connected in any topology, to efficiently route information. In MNNs, information is propagated between neurons throughout a state transition function. State and error gradients are then directly computed from state updates without backward computation. The MNN architecture and the error propagation schema is formalized and derived in tensor algebra. The proposed computational model can fully supply a gradient descent process, and is suitable for very large scale NNs, due to its expressivity and training efficiency, with respect to NNs based on back-propagation and computational graphs.",
             "name": "galatolomnn"
