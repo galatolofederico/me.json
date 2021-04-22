@@ -943,7 +943,7 @@
         },
         {
             "title": "Tecniche di attacco avanzate: Return Oriented Programming (ROP) e Return to Libc (ret2libc)",
-            "name" : "CC20-rop-ret2libc",
+            "name" : "rop-ret2libc",
             "position": "University of Pisa - Pisa (Italy)",
             "container": "CyberChallenge 2020",
             "date":{
@@ -958,7 +958,7 @@
                 },
                 {
                     "name": "Source Code",
-                    "link": "https://github.com/galatolofederico/CC20-rop-ret2libc"
+                    "link": "https://github.com/galatolofederico/rop-ret2libc"
                 }
             ]
         },
