@@ -704,6 +704,18 @@
                 "year": 2021
             },
             "link": "https://github.com/galatolofederico/clip-glass"
+        },
+        {
+            "title": "manim-presentation",
+            "name": "manim-presentation",
+            "description": "Tool for live presentations using manim",
+            "afferences": ["personal", "presentation"],
+            "date": {
+                "day": 22,
+                "month": 4,
+                "year": 2021
+            },
+            "link": "https://github.com/galatolofederico/manim-presentation"
         }
     ],
     "lectures":[
