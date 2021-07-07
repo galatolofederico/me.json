@@ -172,7 +172,7 @@
                 "year": 2021
             },
             "type": "conference",
-            "container": "preprint",
+            "container": "Proceedings of the International Conference on Image Processing and Vision Engineering",
             "keywords": ["CLIP", "Generative Adversarial Networks", "GPT2", "Genetic Algorithms"],
             "afferences": ["unipi"],
             "volume" : "2021 ",
