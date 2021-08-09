@@ -716,6 +716,18 @@
                 "year": 2021
             },
             "link": "https://github.com/galatolofederico/manim-presentation"
+        },
+        {
+            "title": "scamminator",
+            "name": "scamminator",
+            "description": "Telegram Client and Bot that use Artificial Intelligence to auto-reply to scammers and waste their time",
+            "afferences": ["personal", "telegram"],
+            "date": {
+                "day": 9,
+                "month": 8,
+                "year": 2021
+            },
+            "link": "https://github.com/galatolofederico/scamminator"
         }
     ],
     "lectures":[
