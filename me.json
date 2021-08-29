@@ -728,6 +728,18 @@
                 "year": 2021
             },
             "link": "https://github.com/galatolofederico/scamminator"
+        },
+        {
+            "title": "mlpi-citation-page",
+            "name": "mlpi-citation-page",
+            "description": "WebApp for generating MLPI-branded citation pages. It uses the paper DOI to fetche the paper metadata and build the PDF",
+            "afferences": ["personal", "unipi"],
+            "date": {
+                "day": 28,
+                "month": 9,
+                "year": 2021
+            },
+            "link": "https://github.com/galatolofederico/mlpi-citation-page"
         }
     ],
     "lectures":[
