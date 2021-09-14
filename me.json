@@ -1029,5 +1029,32 @@
                 }
             ]
         }
-    ]
+    ],
+    "roles": {
+        "reviewer": [
+            {
+                "journal": "Granular Computing",
+                "publisher": "Springer",
+                "link": "https://www.springer.com/journal/41066"
+            },
+            {
+                "journal": "Wireless Networks",
+                "publisher": "Springer",
+                "link": "https://www.springer.com/journal/11276"
+            },
+            {
+                "journal": "IEEE Symposium Series on Computational Intelligence",
+                "publisher": "IEEE",
+                "link": "https://attend.ieee.org/ssci-2021/"
+            } 
+        ],
+        "chair": [
+            {
+                "conference": "International Conference on Image Processing and Vision Engineering 2021",
+                "type": "Session Chair",
+                "session": "Biometrics",
+                "link": "http://www.improve.scitevents.org/"
+            }
+        ]
+    }
 }
