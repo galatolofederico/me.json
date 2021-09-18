@@ -758,10 +758,22 @@
             "afferences": ["personal", "unipi"],
             "date": {
                 "day": 28,
-                "month": 9,
+                "month": 8,
                 "year": 2021
             },
             "link": "https://github.com/galatolofederico/mlpi-citation-page"
+        },
+        {
+            "title": "easyopt",
+            "name": "easyopt",
+            "description": "Super simple yet super powerful optuna-based no-code Hyperparameters Optimization Framework.",
+            "afferences": ["personal", "unipi", "research"],
+            "date": {
+                "day": 18,
+                "month": 9,
+                "year": 2021
+            },
+            "link": "https://github.com/galatolofederico/easyopt"
         }
     ],
     "lectures":[
