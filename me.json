@@ -246,9 +246,9 @@
             "link" : "#"
         },
         {
-            "title": "Deep Learning of sleep quality based on ballistocardiographic sensors, stigmergic perceptrons and LSTM Networks",
-            "author": "Francesco Paolo Culcasi",
-            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo, Filippo Palumbo",
+            "title": "Realizzazione di un testbed per Target Search tramite Reinforcement Learning basato su Computational Stigmergy e Multi-Agent Policy Gradient",
+            "author": "Giuliano Peraz",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
             "type": "MS",
             "date": {
                 "day": 3,
