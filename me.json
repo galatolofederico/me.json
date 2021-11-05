@@ -228,6 +228,28 @@
             "link": "https://pubs.galatolo.me/galatolonbrf.pdf",
             "abstract": "Conventional neural networks (NNs) for image classification make use of a convolutional layer and a feedforward (FF) classification layer. This paper presents a novel classification layer architecture and a training paradigm, in which the FF layer is split into small and specialized FF nets called Noise Boosted Receptive Fields (NBRFs), one per class. Each i-th NBRF provides three membership degrees: to the i-th class, to the super class made by its complementary classes, and to an extra class representing out-of-classes images. The training process artificially generates extra-class samples, via image transformation and noise addition. Experimental results, carried out on MNIST, KMNIST and FMNIST datasets show that, with respect to an FF layer, the NBRF layer improves robustness and accuracy of classification. The repository with the source code and experimental data has been publicly released to facilitate reproducibility and widespread adoption.",
             "name": "galatolonbrf"
+        },
+        {
+            "title": "Optimizing sparse topologies via Competitive Joint Unstructured Neural Networks",
+            "authors": "Federico A. Galatolo, Mario G. C. A. Cimino, Gigliola Vaglini",
+            "date": {
+                "day": 15,
+                "month": 10,
+                "year": 2021
+            },
+            "type": "journal",
+            "container": "",
+            "keywords": ["Unstructured Neural Networks", "Sparse Neural Networks", "Competitive Neural Networks"],
+            "afferences": ["unipi"],
+            "volume" : "2021 ",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatolocjunn.pdf",
+            "abstract": "A major research problem of Artificial Neural Networks (NNs) is to reduce the number of model parameters. The available approaches are pruning methods, consisting in removing connections of a dense model, and natively sparse models, based on training sparse models using meta-heuristics to guarantee their topological properties. In this paper, the limits of both approaches are discussed. A novel hybrid training approach is developed and experimented, based on a linear combination of sparse unstructured NNs, which are joint because they share connections. Such NNs dynamically compete during the opti- mization, since the less important networks are iteratively pruned, until the most important network remains. The method, called Com- petitive Joint Unstructured NNs (CJUNNs), is formalized together with an efficient derivation in tensor algebra, which has been imple- mented and publicly released. Experimental results show its effectiveness on benchmark datasets and in comparison with structured pruning.",
+            "name": "galatolocjunn"
         }
     ],
     "advised_theses":[
