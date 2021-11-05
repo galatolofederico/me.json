@@ -71,7 +71,7 @@
             "issn": "",
             "isbn": "978-989-758-222-6",
             "doi": "10.5220/0006253807310737",
-            "link": "http://www.iet.unipi.it/m.cimino/publications/cimino_pub50.pdf",
+            "link": "https://pubs.galatolo.me/spikiness_2017.pdf",
             "abstract": "A significant phenomenon in microblogging is that certain occurrences of terms self-produce increasing mentions in the unfolding event. In contrast, other terms manifest a spike for each moment of interest, resulting in a wake-up-and-sleep dynamic. Since spike morphology and background vary widely between events, to detect spikes in microblogs is a challenge. Another way is to detect the spikiness feature rather than spikes. We present an approach which detects and aggregates spikiness contributions by combination of spike patterns, called archetypes. The soft similarity between each archetype and the time series of term occurrences is based on computational stigmergy, a bio-inspired scalar and temporal aggregation of samples. Archetypes are arranged into an architectural module called Stigmergic Receptive Field (SRF). The final spikiness indicator is computed through linear combination of SRFs, whose weights are determined with the Least Square Error minimization on a spikiness training set. The structural parameters of the SRFs are instead determined with the Differential Evolution algorithm, minimizing the error on a training set of archetypal series. Experimental studies have generated a spikiness indicator in a real-world scenario. The indicator has enhanced a cloud representation of social discussion topics, where the more spiky cloud terms are more blurred.",
             "name": "spikiness_2017"
         },
@@ -93,7 +93,7 @@
             "issn": "",
             "isbn": "",
             "doi": "10.1007/978-3-030-05918-7_22",
-            "link": "http://www.iet.unipi.it/m.cimino/publications/cimino_pub62.pdf",
+            "link": "https://pubs.galatolo.me/galatolosnn.pdf",
             "abstract": "A current research trend in neurocomputing involves the design of novel artificial neural networks incorporating the concept of time into their operating model. In this paper, a novel architecture that employs stigmergy is proposed. Computational stigmergy is used to dynamically increase (or decrease) the strength of a connection, or the activation level, of an artificial neuron when stimulated (or released). This study lays down a basic framework for the derivation of a stigmergic NN with a related training algorithm. To show its potential, some pilot experiments have been reported. The XOR problem is solved by using only one single stigmergic neuron with one input and one output. A static NN, a stigmergic NN, a recurrent NN and a long short-term memory NN have been trained to solve the MNIST digits recognition benchmark.",
             "name": "galatolosnn"
         },
@@ -115,7 +115,7 @@
             "issn": "",
             "isbn": "978-989-758-351-3",
             "doi": "10.5220/0007581508300836",
-            "link": "http://www.iet.unipi.it/m.cimino/publications/cimino_pub68.pdf",
+            "link": "https://pubs.galatolo.me/galatolosm.pdf",
             "abstract": "In this paper, a novel architecture of Recurrent Neural Network (RNN) is designed and experimented. The proposed RNN adopts a computational memory based on the concept of stigmergy. The basic principle of a Stigmergic Memory (SM) is that the activity of deposit/removal of a quantity in the SM stimulates the next activities of deposit/removal. Accordingly, subsequent SM activities tend to reinforce/weaken each other, generating a coherent coordination between the SM activities and the input temporal stimulus. We show that, in a problem of supervised classification, the SM encodes the temporal input in an emergent representational model, by coordinating the deposit, removal and classification activities. This study lays down a basic framework for the derivation of a SM-RNN. A formal ontology of SM is discussed, and the SM-RNN architecture is detailed. To appreciate the computational power of an SM-RNN, comparative NNs have been selected and trained to solve the MNIST handwritten digits recognition benchmark in its two variants: spatial (sequences of bitmap rows) and temporal (sequences of pen strokes).",
             "name": "galatolosm"
         },
@@ -137,7 +137,7 @@
             "issn": "",
             "isbn": "",
             "doi": "10.1007/s11063-021-10490-1",
-            "link": "https://arxiv.org/abs/1905.06684",
+            "link": "https://pubs.galatolo.me/galatolomnn.pdf",
             "abstract": "This paper proposes the Mesh Neural Network (MNN), a novel architecture which allows neurons to be connected in any topology, to efficiently route information. In MNNs, information is propagated between neurons throughout a state transition function. State and error gradients are then directly computed from state updates without backward computation. The MNN architecture and the error propagation schema is formalized and derived in tensor algebra. The proposed computational model can fully supply a gradient descent process, and is suitable for very large scale NNs, due to its expressivity and training efficiency, with respect to NNs based on back-propagation and computational graphs.",
             "name": "galatolomnn"
         },
@@ -159,7 +159,7 @@
             "issn": "",
             "isbn": "",
             "doi": "10.1016/j.compeleceng.2021.107117",
-            "link": "https://arxiv.org/abs/2004.04120",
+            "link": "https://pubs.galatolo.me/galatoloa2c.pdf",
             "abstract": "In this paper we investigate some of the issues that arise from the scalarization of the multi-objective optimization problem in the Advantage Actor Critic (A2C) reinforcement learning algorithm. We show how a naive scalarization leads to gradients overlapping and we also argue that the entropy regularization term just inject uncontrolled noise into the system. We propose two methods: one to avoid gradient overlapping (NOG) but keeping the same loss formulation; and one to avoid the noise injection (TE) but generating action distributions with a desired entropy. A comprehensive pilot experiment has been carried out showing how using our proposed methods speeds up the training of 210%. We argue how the proposed solutions can be applied to all the Advantage based reinforcement learning algorithms.",
             "name": "galatoloa2c"
         },
@@ -181,13 +181,13 @@
             "issn": "",
             "isbn": "978-989-758-511-1",
             "doi": "10.5220/0010503701660174",
-            "link": "https://arxiv.org/abs/2102.01645",
+            "link": "https://pubs.galatolo.me/galatologlass.pdf",
             "abstract": "In this research work we present CLIP-GLaSS, a novel zero-shot framework to generate an image (or a caption) corresponding to a given caption (or image). CLIP-GLaSS is based on the CLIP neural network, which, given an image and a descriptive caption, provides similar embeddings. Differently, CLIP-GLaSS takes a caption (or an image) as an input, and generates the image (or the caption) whose CLIP embedding is the most similar to the input one. This optimal image (or caption) is produced via a generative network, after an exploration by a genetic algorithm. Promising results are shown, based on the experimentation of the image Generators BigGAN and StyleGAN2, and of the text Generator GPT2.",
             "name": "galatologlass"
         },
         {
             "title": "Multi-objective optimization of water distribution networks via NSGA-II and Pseudo-Weights",
-            "authors": "Samar Ben Ammar, Mario GCA Cimino, Pierfrancesco Foglia, Federico A Galatolo, Issam Nouiri",
+            "authors": "Samar Ben Ammar, Mario G.C.A. Cimino, Pierfrancesco Foglia, Federico A Galatolo, Issam Nouiri",
             "date": {
                 "day": 28,
                 "month": 8,
@@ -203,7 +203,7 @@
             "issn": "",
             "isbn": "",
             "doi": "",
-            "link": "http://www.iet.unipi.it/m.cimino/pub/hdl.handle.net_11568_1105664.pdf",
+            "link": "https://pubs.galatolo.me/galatolowdn.pdf",
             "abstract": "Managing water distribution networks via pumps scheduling programs is a multi-objective optimization problem with dynamic and various site-specific challenges. Metaheuristicsbased approaches, with respect to mathematical solvers, offer data-driven strategies for manageable and adaptive control. Some evolutionary approaches are suitable for multi-criteria decision making and decentralized coordination on programmable logic controllers. This paper focuses on the development of a testbed and an early assessment of an approach based on NSGA-II and Pseudo-Weights. The experimental studies are based on a physically developed case study, and on a scalable case study with realistic water demand and source patterns. The testbed has been publicly released.",
             "name": "galatolowdn"
         }
