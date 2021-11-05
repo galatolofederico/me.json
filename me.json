@@ -206,6 +206,28 @@
             "link": "https://pubs.galatolo.me/galatolowdn.pdf",
             "abstract": "Managing water distribution networks via pumps scheduling programs is a multi-objective optimization problem with dynamic and various site-specific challenges. Metaheuristicsbased approaches, with respect to mathematical solvers, offer data-driven strategies for manageable and adaptive control. Some evolutionary approaches are suitable for multi-criteria decision making and decentralized coordination on programmable logic controllers. This paper focuses on the development of a testbed and an early assessment of an approach based on NSGA-II and Pseudo-Weights. The experimental studies are based on a physically developed case study, and on a scalable case study with realistic water demand and source patterns. The testbed has been publicly released.",
             "name": "galatolowdn"
+        },
+        {
+            "title": "Noise Boosted Neural Receptive Fields",
+            "authors": "Federico A. Galatolo, Mario G.C.A. Cimino, Alessandro Marincioni, Gigliola Vaglini",
+            "date": {
+                "day": 15,
+                "month": 9,
+                "year": 2021
+            },
+            "type": "conference",
+            "container": "IEEE Symposium Series on Computational Intelligence - IEEE SSCI 2021",
+            "keywords": ["Neural Networks", "Logistic Regression", "Boosting"],
+            "afferences": ["unipi"],
+            "volume" : "2021 ",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatolonbrf.pdf",
+            "abstract": "Conventional neural networks (NNs) for image classification make use of a convolutional layer and a feedforward (FF) classification layer. This paper presents a novel classification layer architecture and a training paradigm, in which the FF layer is split into small and specialized FF nets called Noise Boosted Receptive Fields (NBRFs), one per class. Each i-th NBRF provides three membership degrees: to the i-th class, to the super class made by its complementary classes, and to an extra class representing out-of-classes images. The training process artificially generates extra-class samples, via image transformation and noise addition. Experimental results, carried out on MNIST, KMNIST and FMNIST datasets show that, with respect to an FF layer, the NBRF layer improves robustness and accuracy of classification. The repository with the source code and experimental data has been publicly released to facilitate reproducibility and widespread adoption.",
+            "name": "galatolonbrf"
         }
     ],
     "advised_theses":[
