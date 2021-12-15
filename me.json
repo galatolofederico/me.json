@@ -241,7 +241,7 @@
             "container": "",
             "keywords": ["Unstructured Neural Networks", "Sparse Neural Networks", "Competitive Neural Networks"],
             "afferences": ["unipi"],
-            "volume" : "2021 ",
+            "volume" : "",
             "issue": "",
             "pages": "",
             "issn": "",
@@ -250,6 +250,28 @@
             "link": "https://pubs.galatolo.me/galatolocjunn.pdf",
             "abstract": "A major research problem of Artificial Neural Networks (NNs) is to reduce the number of model parameters. The available approaches are pruning methods, consisting in removing connections of a dense model, and natively sparse models, based on training sparse models using meta-heuristics to guarantee their topological properties. In this paper, the limits of both approaches are discussed. A novel hybrid training approach is developed and experimented, based on a linear combination of sparse unstructured NNs, which are joint because they share connections. Such NNs dynamically compete during the optimization, since the less important networks are iteratively pruned, until the most important network remains. The method, called Competitive Joint Unstructured NNs (CJUNNs), is formalized together with an efficient derivation in tensor algebra, which has been implemented and publicly released. Experimental results show its effectiveness on benchmark datasets and in comparison with structured pruning.",
             "name": "galatolocjunn"
+        },
+        {
+            "title": "Zero-shot mathematical problem solving via Generative Pre-trained Transformers",
+            "authors": "Federico A. Galatolo, Mario G. C. A. Cimino, Gigliola Vaglini",
+            "date": {
+                "day": 15,
+                "month": 12,
+                "year": 2021
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Zero-shot", "Generative Pre-trained Transformers", "GPT-3", "Codex"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatolomathcodex.pdf",
+            "abstract": "Mathematics is an effective testbed for measuring the problem-solving ability of machine learning models. The current benchmark for deep learning-based solutions is grade school math problems: given a natural language description of a problem, the task is to analyse the problem, exploit heuristics generated from a very large set of solved examples, and then generate an answer. In this paper, a descendant of the third generation of Generative Pre-trained Transformer Networks (GPT-3) is used to develop a zero-shot learning approach, to solve this problem. The proposed approach shows that coding based problem-solving is more effective than the natural language reasoning based one. Specifically, the architectural solution is built upon OpenAI Codex, a descendant of GPT-3 for programming tasks, trained on public GitHub repositories, the world’s largest source code hosting service. Experimental results clearly show the potential of the approach: by exploiting the Python as programming language, proposed pipeline achieves the 18.63% solve rate against the 6.82% of GPT-3. Finally, by using a fine-tuned verifier, the correctness of the answer can be ranked at runtime, and then improved by generating a predefined number of trials. With this approach, for 10 trials and an ideal verifier, the proposed pipeline achieves 54.20% solve rate",
+            "name": "galatolomathcodex"
         }
     ],
     "advised_theses":[
