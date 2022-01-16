@@ -840,6 +840,18 @@
                 "year": 2021
             },
             "link": "https://github.com/galatolofederico/easyopt"
+        },
+        {
+            "title": "math-codex",
+            "name": "math-codex",
+            "description": "Repository for the paper Zero-shot mathematical problem solving via Generative Pre-trained Transformers",
+            "afferences": ["gpt3", "unipi", "research"],
+            "date": {
+                "day": 15,
+                "month": 12,
+                "year": 2021
+            },
+            "link": "https://github.com/galatolofederico/math-codex"
         }
     ],
     "lectures":[
