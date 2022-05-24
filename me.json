@@ -272,6 +272,28 @@
             "link": "https://pubs.galatolo.me/galatolomathcodex.pdf",
             "abstract": "Mathematics is an effective testbed for measuring the problem-solving ability of machine learning models. The current benchmark for deep learning-based solutions is grade school math problems: given a natural language description of a problem, the task is to analyse the problem, exploit heuristics generated from a very large set of solved examples, and then generate an answer. In this paper, a descendant of the third generation of Generative Pre-trained Transformer Networks (GPT-3) is used to develop a zero-shot learning approach, to solve this problem. The proposed approach shows that coding based problem-solving is more effective than the natural language reasoning based one. Specifically, the architectural solution is built upon OpenAI Codex, a descendant of GPT-3 for programming tasks, trained on public GitHub repositories, the world’s largest source code hosting service. Experimental results clearly show the potential of the approach: by exploiting the Python as programming language, proposed pipeline achieves the 18.63% solve rate against the 6.82% of GPT-3. Finally, by using a fine-tuned verifier, the correctness of the answer can be ranked at runtime, and then improved by generating a predefined number of trials. With this approach, for 10 trials and an ideal verifier, the proposed pipeline achieves 54.20% solve rate",
             "name": "galatolomathcodex"
+        },
+        {
+            "title": "A machine learning approach for groundwater modeling",
+            "authors": "Mario G.C.A. Cimino, Manel Ennahedh, Federico A. Galatolo, Nejla Hariga-Tlatli, Issam Nouiri, Nicola Perilli, Jamila Tarhouni",
+            "date": {
+                "day": 15,
+                "month": 11,
+                "year": 2021
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning", "Regression", "Groundwater Modeling"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatologroundwaterml.pdf",
+            "abstract": "This paper introduces a novel method and tools for groundwater modeling. The purpose is to perform numerical approximations of a groundwater system, for unlocking and paving water management problems and supporting decision-making processes. In the last decade, Data-driven Models (DdMs) have attracted increasing attention for their efficient development made possible by modern remote and ground sensing and learning technologies. With respect to conventional Process-driven Models (PdMs), based on mathematical modeling of core physical processes into a system of equations, a DdM requires less human effort and process-specific knowledge. The paper covers the design and simulation of a deep learning modeling tool based on Convolutional Neural Networks, integrated with the design and simulation of the workflow based on the Business Process Model and Notation (BPMN). Experimental results clearly show the potential of the novel approach for scientists and policy makers.",
+            "name": "galatologroundwaterml"
         }
     ],
     "advised_theses":[
