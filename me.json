@@ -316,6 +316,28 @@
             "link": "https://pubs.galatolo.me/galatoloscanneddetection.pdf",
             "abstract": "The computer vision and object detection techniques developed in recent years are dominating the state of the art and are increasingly applied to document layout analysis. In this research work, an automatic method to extract meaningful information from scanned documents is proposed. The method is based on the most recent object detection techniques. Specifically, the state-of-the-art deep learning techniques that are designed to work on images, are adapted to the domain of digital documents. This research focuses on play scripts, a document type that has not been considered in the literature. For this reason, a novel dataset has been annotated, selecting the most common and useful formats from hundreds of available scripts. The main contribution of this paper is to provide a general understanding and a performance study of differentimplementations of object detectors applied to this domain. A fine-tuning of deep neural networks, such as Faster R-CNN and YOLO, has been made to identify text sections of interest via bounding boxes, and to classify them into a specific pre-defined category. Several experiments have been carried out, applying different combinations of data augmentation techniques.",
             "name": "galatoloscanneddetection"
+        },
+        {
+            "title": "Enhancing land subsidence awareness via InSAR data and Deep Transformers",
+            "authors": "Diana Orlandi, Federico A. Galatolo, Mario G. C. A. Cimino , Alessandro La Rosa, Carolina Pagli, Nicola Perilli",
+            "date": {
+                "day": 26,
+                "month": 4,
+                "year": 2022
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning", "Transformers", "InSAR"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatoloinsartransformer.pdf",
+            "abstract": "The increasing availability of Satellite technology for Earth observation enables the monitoring of land subsidence, achieving large-scale and long-term situation awareness for supporting various human activities. Nevertheless, even with the most-recent Interferometric Synthetic Aperture Radar (InSAR) technology, one of the main limitations is signal loss of coherence. This paper introduces a novel method and tool for increasing the spatial density of the surface motion samples. The method is based on Transformers, a machine learning architecture with dominant performance, low calibration cost and agnostic method. This paper covers development and experimentation on four-years surface subsidence (2017-2021) occurring in two Italian regions, Emilia-Romagna and Tuscany, due to ground-water over-pumping using Sentinel-1 data processed with P-SBAS (Parallel Small Baseline Subset) time-series analysis. Experimental results clearly show the potential of the approach. The developed system has been publicly released to guarantee its reproducibility and the scientific collaboration.",
+            "name": "galatoloinsartransformer"
         }
     ],
     "advised_theses":[
