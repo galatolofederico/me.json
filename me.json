@@ -294,6 +294,28 @@
             "link": "https://pubs.galatolo.me/galatologroundwaterml.pdf",
             "abstract": "This paper introduces a novel method and tools for groundwater modeling. The purpose is to perform numerical approximations of a groundwater system, for unlocking and paving water management problems and supporting decision-making processes. In the last decade, Data-driven Models (DdMs) have attracted increasing attention for their efficient development made possible by modern remote and ground sensing and learning technologies. With respect to conventional Process-driven Models (PdMs), based on mathematical modeling of core physical processes into a system of equations, a DdM requires less human effort and process-specific knowledge. The paper covers the design and simulation of a deep learning modeling tool based on Convolutional Neural Networks, integrated with the design and simulation of the workflow based on the Business Process Model and Notation (BPMN). Experimental results clearly show the potential of the novel approach for scientists and policy makers.",
             "name": "galatologroundwaterml"
+        },
+        {
+            "title": "Using Deep Learning-based Object Detection to extract structure information from scanned documents",
+            "authors": "Alice Nannini, Federico A. Galatolo, Mario G.C.A. Cimino, Gigliola Vaglini",
+            "date": {
+                "day": 26,
+                "month": 4,
+                "year": 2022
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Deep Learning", "Object Detection", "Scanned Documents"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatoloscanneddetection.pdf",
+            "abstract": "The computer vision and object detection techniques developed in recent years are dominating the state of the art and are increasingly applied to document layout analysis. In this research work, an automatic method to extract meaningful information from scanned documents is proposed. The method is based on the most recent object detection techniques. Specifically, the state-of-the-art deep learning techniques that are designed to work on images, are adapted to the domain of digital documents. This research focuses on play scripts, a document type that has not been considered in the literature. For this reason, a novel dataset has been annotated, selecting the most common and useful formats from hundreds of available scripts. The main contribution of this paper is to provide a general understanding and a performance study of differentimplementations of object detectors applied to this domain. A fine-tuning of deep neural networks, such as Faster R-CNN and YOLO, has been made to identify text sections of interest via bounding boxes, and to classify them into a specific pre-defined category. Several experiments have been carried out, applying different combinations of data augmentation techniques.",
+            "name": "galatoloscanneddetection"
         }
     ],
     "advised_theses":[
