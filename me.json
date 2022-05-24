@@ -321,8 +321,8 @@
             "title": "Enhancing land subsidence awareness via InSAR data and Deep Transformers",
             "authors": "Diana Orlandi, Federico A. Galatolo, Mario G. C. A. Cimino , Alessandro La Rosa, Carolina Pagli, Nicola Perilli",
             "date": {
-                "day": 26,
-                "month": 4,
+                "day": 15,
+                "month": 3,
                 "year": 2022
             },
             "type": "conference",
@@ -338,6 +338,28 @@
             "link": "https://pubs.galatolo.me/galatoloinsartransformer.pdf",
             "abstract": "The increasing availability of Satellite technology for Earth observation enables the monitoring of land subsidence, achieving large-scale and long-term situation awareness for supporting various human activities. Nevertheless, even with the most-recent Interferometric Synthetic Aperture Radar (InSAR) technology, one of the main limitations is signal loss of coherence. This paper introduces a novel method and tool for increasing the spatial density of the surface motion samples. The method is based on Transformers, a machine learning architecture with dominant performance, low calibration cost and agnostic method. This paper covers development and experimentation on four-years surface subsidence (2017-2021) occurring in two Italian regions, Emilia-Romagna and Tuscany, due to ground-water over-pumping using Sentinel-1 data processed with P-SBAS (Parallel Small Baseline Subset) time-series analysis. Experimental results clearly show the potential of the approach. The developed system has been publicly released to guarantee its reproducibility and the scientific collaboration.",
             "name": "galatoloinsartransformer"
+        },
+        {
+            "title": "Structural Damage Localization via Deep Learning and IoT enabled Digital Twin",
+            "authors": "Marco Parola, Federico A. Galatolo, Matteo Torzoni, Mario G.C.A. Cimino, Gigliola Vaglini",
+            "date": {
+                "day": 1,
+                "month": 5,
+                "year": 2022
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning", "Convolutional Neural Networks", "Structural Health Monitoring"],
+            "afferences": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatolodamagelocalization.pdf",
+            "abstract": "Structural Health Monitoring (SHM) of civil structures using IoT sensors is a major emerging challenge. SHM aims to detect and identify any deviation from a reference condition, typically a damage-free baseline, to keep track of the relevant structural integrity. Machine Learning (ML) techniques have recently been employed to empower vibration-based SHM systems. Supervised ML tends to achieve better accuracy than unsupervised ML, but it requires human intervention to label data appropriately. However, labelled data related to damage conditions of civil structures are often unavailable. To overcome this limitation, a key solution is a digital twin relying on physics-based numerical models to simulate the structural response in terms of the and vibration recordings provided by IoT devices during the events of interest, such as wind or seismic excitations. This paper presents such comprehensive approach, here framed to address the tasks of damage localization, exploiting a Convolutional Neural Network (CNN). Early experimental results relevant to a pilot application involving a sample structure, show the potential of the proposed approach, as well as the reusability of the trained system in presence of varying loading scenarios.",
+            "name": "galatolodamagelocalization"
         }
     ],
     "advised_theses":[
