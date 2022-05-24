@@ -13,7 +13,7 @@
         "nationality": "Italian",
         "picture": "https://static.galatolo.me/me.png",
         "bio": "I received my Bachelor Degree in &quot;Ingegneria Informatica&quot; in September 2016, my Master Degree in &quot;Computer Engineering&quot; in September 2018 and finished my PhD in October 2021. I&apos;m now a Postdoc Research Fellow at the Department of Information Engineering. I always loved solving problems, writing code and inventing new stuff and now I'm basically paid to do so.",
-        "qualifications": ["PhD in Information Engineering", "Postdoc Research Fellow @ Unipi", "Machine Learning Engineer", "Open Source Enthusiast", "Computer Engineer"],
+        "qualifications": ["Information Engineering PhD", "Postdoc Research Fellow @ Unipi", "Machine Learning Engineer", "Open Source Enthusiast", "Computer Engineer"],
         "address": {
             "street": "Largo Lucio Lazzarino 1",
             "city": "Pisa",
