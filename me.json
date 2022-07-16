@@ -590,6 +590,54 @@
                 "year": 2019
             },
             "link" : "#"
+        },
+        {
+            "title": "Realizzazione di un testbed per Target Search tramite Reinforcement Learning basato su Computational Stigmergy e Multi-Agent Policy Gradients ",
+            "author": "Perez Giuliano",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 8,
+                "month": 6,
+                "year": 2020
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Using Deep Learning-based Object Detection to extract context-specific information from digitized documents ",
+            "author": "Alice Nannini",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 3,
+                "month": 11,
+                "year": 2021
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Data-driven structural health monitoring using supervised deep learning ",
+            "author": "Marco Parola",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "link" : "#"
+        },
+        {
+            "title": "An integrated framework for mapping Smart Contracts into BPMN 2.0 choreographies in collaborative business processes ",
+            "author": "Billi Tommaso",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 13,
+                "month": 4,
+                "year": 2022
+            },
+            "link" : "#"
         }
     ],
     "projects":[
