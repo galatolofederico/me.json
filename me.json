@@ -1254,6 +1254,23 @@
                     "link": "https://drive.google.com/file/d/12SoTtc8GsUs7noG_UtZf3NbjVWWxZCAG/view?usp=sharing"
                 }
             ]
+        },
+        {
+            "title": "Stato dell'arte dell'intelligenza artificiale per l'elaborazione dei testi antichi",
+            "name" : "serica-workshop",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Workshop Serica",
+            "date":{
+                "day": 6,
+                "month": 6,
+                "year": 2022
+            },
+            "resources": [
+                {
+                    "name": "Slides",
+                    "link": "https://drive.google.com/file/d/1q_f0si2GoABdly_CN1WdAaMP-30RTMYy/view?usp=sharing"
+                }
+            ]
         }
     ],
     "roles": {
