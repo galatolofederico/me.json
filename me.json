@@ -224,7 +224,7 @@
             "pages": "",
             "issn": "",
             "isbn": "",
-            "doi": "",
+            "doi": "https://doi.org/10.1109/SSCI50451.2021.9660191",
             "link": "https://pubs.galatolo.me/galatolonbrf.pdf",
             "abstract": "Conventional neural networks (NNs) for image classification make use of a convolutional layer and a feedforward (FF) classification layer. This paper presents a novel classification layer architecture and a training paradigm, in which the FF layer is split into small and specialized FF nets called Noise Boosted Receptive Fields (NBRFs), one per class. Each i-th NBRF provides three membership degrees: to the i-th class, to the super class made by its complementary classes, and to an extra class representing out-of-classes images. The training process artificially generates extra-class samples, via image transformation and noise addition. Experimental results, carried out on MNIST, KMNIST and FMNIST datasets show that, with respect to an FF layer, the NBRF layer improves robustness and accuracy of classification. The repository with the source code and experimental data has been publicly released to facilitate reproducibility and widespread adoption.",
             "name": "galatolonbrf"
