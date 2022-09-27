@@ -290,7 +290,7 @@
             "pages": "",
             "issn": "",
             "isbn": "",
-            "doi": "",
+            "doi": "10.1109/SETIT54465.2022.9875601",
             "link": "https://pubs.galatolo.me/galatologroundwaterml.pdf",
             "abstract": "This paper introduces a novel method and tools for groundwater modeling. The purpose is to perform numerical approximations of a groundwater system, for unlocking and paving water management problems and supporting decision-making processes. In the last decade, Data-driven Models (DdMs) have attracted increasing attention for their efficient development made possible by modern remote and ground sensing and learning technologies. With respect to conventional Process-driven Models (PdMs), based on mathematical modeling of core physical processes into a system of equations, a DdM requires less human effort and process-specific knowledge. The paper covers the design and simulation of a deep learning modeling tool based on Convolutional Neural Networks, integrated with the design and simulation of the workflow based on the Business Process Model and Notation (BPMN). Experimental results clearly show the potential of the novel approach for scientists and policy makers.",
             "name": "galatologroundwaterml"
