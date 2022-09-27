@@ -638,6 +638,18 @@
                 "year": 2022
             },
             "link" : "#"
+        },
+        {
+            "title": "Hole Detection and Recovering Algorithms using Bio-inspired Robotic Swarms",
+            "author": "Martino Gabriele",
+            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo, Giada Simionato",
+            "type": "MS",
+            "date": {
+                "day": 18,
+                "month": 9,
+                "year": 2022
+            },
+            "link" : "#"
         }
     ],
     "projects":[
