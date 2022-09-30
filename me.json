@@ -72,6 +72,8 @@
             "isbn": "978-989-758-222-6",
             "doi": "10.5220/0006253807310737",
             "link": "https://pubs.galatolo.me/spikiness_2017.pdf",
+            "code": "",
+            "data": "",
             "abstract": "A significant phenomenon in microblogging is that certain occurrences of terms self-produce increasing mentions in the unfolding event. In contrast, other terms manifest a spike for each moment of interest, resulting in a wake-up-and-sleep dynamic. Since spike morphology and background vary widely between events, to detect spikes in microblogs is a challenge. Another way is to detect the spikiness feature rather than spikes. We present an approach which detects and aggregates spikiness contributions by combination of spike patterns, called archetypes. The soft similarity between each archetype and the time series of term occurrences is based on computational stigmergy, a bio-inspired scalar and temporal aggregation of samples. Archetypes are arranged into an architectural module called Stigmergic Receptive Field (SRF). The final spikiness indicator is computed through linear combination of SRFs, whose weights are determined with the Least Square Error minimization on a spikiness training set. The structural parameters of the SRFs are instead determined with the Differential Evolution algorithm, minimizing the error on a training set of archetypal series. Experimental studies have generated a spikiness indicator in a real-world scenario. The indicator has enhanced a cloud representation of social discussion topics, where the more spiky cloud terms are more blurred.",
             "name": "spikiness_2017"
         },
@@ -94,6 +96,8 @@
             "isbn": "",
             "doi": "10.1007/978-3-030-05918-7_22",
             "link": "https://pubs.galatolo.me/galatolosnn.pdf",
+            "code": "https://github.com/galatolofederico/torchsnn",
+            "data": "",
             "abstract": "A current research trend in neurocomputing involves the design of novel artificial neural networks incorporating the concept of time into their operating model. In this paper, a novel architecture that employs stigmergy is proposed. Computational stigmergy is used to dynamically increase (or decrease) the strength of a connection, or the activation level, of an artificial neuron when stimulated (or released). This study lays down a basic framework for the derivation of a stigmergic NN with a related training algorithm. To show its potential, some pilot experiments have been reported. The XOR problem is solved by using only one single stigmergic neuron with one input and one output. A static NN, a stigmergic NN, a recurrent NN and a long short-term memory NN have been trained to solve the MNIST digits recognition benchmark.",
             "name": "galatolosnn"
         },
@@ -116,6 +120,8 @@
             "isbn": "978-989-758-351-3",
             "doi": "10.5220/0007581508300836",
             "link": "https://pubs.galatolo.me/galatolosm.pdf",
+            "code": "https://github.com/galatolofederico/torchsm",
+            "data": "",
             "abstract": "In this paper, a novel architecture of Recurrent Neural Network (RNN) is designed and experimented. The proposed RNN adopts a computational memory based on the concept of stigmergy. The basic principle of a Stigmergic Memory (SM) is that the activity of deposit/removal of a quantity in the SM stimulates the next activities of deposit/removal. Accordingly, subsequent SM activities tend to reinforce/weaken each other, generating a coherent coordination between the SM activities and the input temporal stimulus. We show that, in a problem of supervised classification, the SM encodes the temporal input in an emergent representational model, by coordinating the deposit, removal and classification activities. This study lays down a basic framework for the derivation of a SM-RNN. A formal ontology of SM is discussed, and the SM-RNN architecture is detailed. To appreciate the computational power of an SM-RNN, comparative NNs have been selected and trained to solve the MNIST handwritten digits recognition benchmark in its two variants: spatial (sequences of bitmap rows) and temporal (sequences of pen strokes).",
             "name": "galatolosm"
         },
@@ -138,6 +144,8 @@
             "isbn": "",
             "doi": "10.1007/s11063-021-10490-1",
             "link": "https://pubs.galatolo.me/galatolomnn.pdf",
+            "code": "https://github.com/galatolofederico/mesh-neural-networks",
+            "data": "",
             "abstract": "This paper proposes the Mesh Neural Network (MNN), a novel architecture which allows neurons to be connected in any topology, to efficiently route information. In MNNs, information is propagated between neurons throughout a state transition function. State and error gradients are then directly computed from state updates without backward computation. The MNN architecture and the error propagation schema is formalized and derived in tensor algebra. The proposed computational model can fully supply a gradient descent process, and is suitable for very large scale NNs, due to its expressivity and training efficiency, with respect to NNs based on back-propagation and computational graphs.",
             "name": "galatolomnn"
         },
@@ -160,6 +168,8 @@
             "isbn": "",
             "doi": "10.1016/j.compeleceng.2021.107117",
             "link": "https://pubs.galatolo.me/galatoloa2c.pdf",
+            "code": "https://github.com/galatolofederico/a2c-te-nog",
+            "data": "",
             "abstract": "In this paper we investigate some of the issues that arise from the scalarization of the multi-objective optimization problem in the Advantage Actor Critic (A2C) reinforcement learning algorithm. We show how a naive scalarization leads to gradients overlapping and we also argue that the entropy regularization term just inject uncontrolled noise into the system. We propose two methods: one to avoid gradient overlapping (NOG) but keeping the same loss formulation; and one to avoid the noise injection (TE) but generating action distributions with a desired entropy. A comprehensive pilot experiment has been carried out showing how using our proposed methods speeds up the training of 210%. We argue how the proposed solutions can be applied to all the Advantage based reinforcement learning algorithms.",
             "name": "galatoloa2c"
         },
@@ -182,6 +192,8 @@
             "isbn": "978-989-758-511-1",
             "doi": "10.5220/0010503701660174",
             "link": "https://pubs.galatolo.me/galatologlass.pdf",
+            "code": "https://github.com/galatolofederico/clip-glass",
+            "data": "",
             "abstract": "In this research work we present CLIP-GLaSS, a novel zero-shot framework to generate an image (or a caption) corresponding to a given caption (or image). CLIP-GLaSS is based on the CLIP neural network, which, given an image and a descriptive caption, provides similar embeddings. Differently, CLIP-GLaSS takes a caption (or an image) as an input, and generates the image (or the caption) whose CLIP embedding is the most similar to the input one. This optimal image (or caption) is produced via a generative network, after an exploration by a genetic algorithm. Promising results are shown, based on the experimentation of the image Generators BigGAN and StyleGAN2, and of the text Generator GPT2.",
             "name": "galatologlass"
         },
@@ -204,6 +216,8 @@
             "isbn": "",
             "doi": "",
             "link": "https://pubs.galatolo.me/galatolowdn.pdf",
+            "code": "https://github.com/galatolofederico/optimal-wdn",
+            "data": "",
             "abstract": "Managing water distribution networks via pumps scheduling programs is a multi-objective optimization problem with dynamic and various site-specific challenges. Metaheuristicsbased approaches, with respect to mathematical solvers, offer data-driven strategies for manageable and adaptive control. Some evolutionary approaches are suitable for multi-criteria decision making and decentralized coordination on programmable logic controllers. This paper focuses on the development of a testbed and an early assessment of an approach based on NSGA-II and Pseudo-Weights. The experimental studies are based on a physically developed case study, and on a scalable case study with realistic water demand and source patterns. The testbed has been publicly released.",
             "name": "galatolowdn"
         },
@@ -226,6 +240,8 @@
             "isbn": "",
             "doi": "https://doi.org/10.1109/SSCI50451.2021.9660191",
             "link": "https://pubs.galatolo.me/galatolonbrf.pdf",
+            "code": "https://github.com/galatolofederico/noise-boosted-receptive-fields",
+            "data": "",
             "abstract": "Conventional neural networks (NNs) for image classification make use of a convolutional layer and a feedforward (FF) classification layer. This paper presents a novel classification layer architecture and a training paradigm, in which the FF layer is split into small and specialized FF nets called Noise Boosted Receptive Fields (NBRFs), one per class. Each i-th NBRF provides three membership degrees: to the i-th class, to the super class made by its complementary classes, and to an extra class representing out-of-classes images. The training process artificially generates extra-class samples, via image transformation and noise addition. Experimental results, carried out on MNIST, KMNIST and FMNIST datasets show that, with respect to an FF layer, the NBRF layer improves robustness and accuracy of classification. The repository with the source code and experimental data has been publicly released to facilitate reproducibility and widespread adoption.",
             "name": "galatolonbrf"
         },
@@ -248,6 +264,8 @@
             "isbn": "",
             "doi": "",
             "link": "https://pubs.galatolo.me/galatolocjunn.pdf",
+            "code": "https://github.com/galatolofederico/cjunn",
+            "data": "",
             "abstract": "A major research problem of Artificial Neural Networks (NNs) is to reduce the number of model parameters. The available approaches are pruning methods, consisting in removing connections of a dense model, and natively sparse models, based on training sparse models using meta-heuristics to guarantee their topological properties. In this paper, the limits of both approaches are discussed. A novel hybrid training approach is developed and experimented, based on a linear combination of sparse unstructured NNs, which are joint because they share connections. Such NNs dynamically compete during the optimization, since the less important networks are iteratively pruned, until the most important network remains. The method, called Competitive Joint Unstructured NNs (CJUNNs), is formalized together with an efficient derivation in tensor algebra, which has been implemented and publicly released. Experimental results show its effectiveness on benchmark datasets and in comparison with structured pruning.",
             "name": "galatolocjunn"
         },
@@ -270,6 +288,8 @@
             "isbn": "",
             "doi": "10.5220/0011032400003179",
             "link": "https://pubs.galatolo.me/galatolomathcodex.pdf",
+            "code": "https://github.com/galatolofederico/math-codex",
+            "data": "https://galatolofederico.github.io/math-codex/",
             "abstract": "Mathematics is an effective testbed for measuring the problem-solving ability of machine learning models. The current benchmark for deep learning-based solutions is grade school math problems: given a natural language description of a problem, the task is to analyse the problem, exploit heuristics generated from a very large set of solved examples, and then generate an answer. In this paper, a descendant of the third generation of Generative Pre-trained Transformer Networks (GPT-3) is used to develop a zero-shot learning approach, to solve this problem. The proposed approach shows that coding based problem-solving is more effective than the natural language reasoning based one. Specifically, the architectural solution is built upon OpenAI Codex, a descendant of GPT-3 for programming tasks, trained on public GitHub repositories, the world’s largest source code hosting service. Experimental results clearly show the potential of the approach: by exploiting the Python as programming language, proposed pipeline achieves the 18.63% solve rate against the 6.82% of GPT-3. Finally, by using a fine-tuned verifier, the correctness of the answer can be ranked at runtime, and then improved by generating a predefined number of trials. With this approach, for 10 trials and an ideal verifier, the proposed pipeline achieves 54.20% solve rate",
             "name": "galatolomathcodex"
         },
@@ -292,6 +312,8 @@
             "isbn": "",
             "doi": "10.1109/SETIT54465.2022.9875601",
             "link": "https://pubs.galatolo.me/galatologroundwaterml.pdf",
+            "code": "https://github.com/galatolofederico/setit2022",
+            "data": "http://131.114.50.176/owncloud/s/PsNS98xzREMseSP",
             "abstract": "This paper introduces a novel method and tools for groundwater modeling. The purpose is to perform numerical approximations of a groundwater system, for unlocking and paving water management problems and supporting decision-making processes. In the last decade, Data-driven Models (DdMs) have attracted increasing attention for their efficient development made possible by modern remote and ground sensing and learning technologies. With respect to conventional Process-driven Models (PdMs), based on mathematical modeling of core physical processes into a system of equations, a DdM requires less human effort and process-specific knowledge. The paper covers the design and simulation of a deep learning modeling tool based on Convolutional Neural Networks, integrated with the design and simulation of the workflow based on the Business Process Model and Notation (BPMN). Experimental results clearly show the potential of the novel approach for scientists and policy makers.",
             "name": "galatologroundwaterml"
         },
@@ -314,6 +336,8 @@
             "isbn": "",
             "doi": "10.5220/0011090600003179",
             "link": "https://pubs.galatolo.me/galatoloscanneddetection.pdf",
+            "code": "",
+            "data": "",
             "abstract": "The computer vision and object detection techniques developed in recent years are dominating the state of the art and are increasingly applied to document layout analysis. In this research work, an automatic method to extract meaningful information from scanned documents is proposed. The method is based on the most recent object detection techniques. Specifically, the state-of-the-art deep learning techniques that are designed to work on images, are adapted to the domain of digital documents. This research focuses on play scripts, a document type that has not been considered in the literature. For this reason, a novel dataset has been annotated, selecting the most common and useful formats from hundreds of available scripts. The main contribution of this paper is to provide a general understanding and a performance study of differentimplementations of object detectors applied to this domain. A fine-tuning of deep neural networks, such as Faster R-CNN and YOLO, has been made to identify text sections of interest via bounding boxes, and to classify them into a specific pre-defined category. Several experiments have been carried out, applying different combinations of data augmentation techniques.",
             "name": "galatoloscanneddetection"
         },
@@ -336,6 +360,8 @@
             "isbn": "",
             "doi": "10.1109/CogSIMA54611.2022.9830661",
             "link": "https://pubs.galatolo.me/galatoloinsartransformer.pdf",
+            "code": "https://github.com/galatolofederico/cogsima2022",
+            "data": "http://131.114.50.176/owncloud/s/66EveoWWyvxd9BQ",
             "abstract": "The increasing availability of Satellite technology for Earth observation enables the monitoring of land subsidence, achieving large-scale and long-term situation awareness for supporting various human activities. Nevertheless, even with the most-recent Interferometric Synthetic Aperture Radar (InSAR) technology, one of the main limitations is signal loss of coherence. This paper introduces a novel method and tool for increasing the spatial density of the surface motion samples. The method is based on Transformers, a machine learning architecture with dominant performance, low calibration cost and agnostic method. This paper covers development and experimentation on four-years surface subsidence (2017-2021) occurring in two Italian regions, Emilia-Romagna and Tuscany, due to ground-water over-pumping using Sentinel-1 data processed with P-SBAS (Parallel Small Baseline Subset) time-series analysis. Experimental results clearly show the potential of the approach. The developed system has been publicly released to guarantee its reproducibility and the scientific collaboration.",
             "name": "galatoloinsartransformer"
         },
@@ -358,6 +384,8 @@
             "isbn": "978-989-758-584-5",
             "doi": "10.5220/0011320600003277",
             "link": "https://pubs.galatolo.me/galatolodamagelocalization.pdf",
+            "code": "https://github.com/MarcoParola/structural_health_monitoring",
+            "data": "",
             "abstract": "Structural Health Monitoring (SHM) of civil structures using IoT sensors is a major emerging challenge. SHM aims to detect and identify any deviation from a reference condition, typically a damage-free baseline, to keep track of the relevant structural integrity. Machine Learning (ML) techniques have recently been employed to empower vibration-based SHM systems. Supervised ML tends to achieve better accuracy than unsupervised ML, but it requires human intervention to label data appropriately. However, labelled data related to damage conditions of civil structures are often unavailable. To overcome this limitation, a key solution is a digital twin relying on physics-based numerical models to simulate the structural response in terms of the and vibration recordings provided by IoT devices during the events of interest, such as wind or seismic excitations. This paper presents such comprehensive approach, here framed to address the tasks of damage localization, exploiting a Convolutional Neural Network (CNN). Early experimental results relevant to a pilot application involving a sample structure, show the potential of the proposed approach, as well as the reusability of the trained system in presence of varying loading scenarios.",
             "name": "galatolodamagelocalization"
         }
