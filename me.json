@@ -620,18 +620,6 @@
             "link" : "#"
         },
         {
-            "title": "Realizzazione di un testbed per Target Search tramite Reinforcement Learning basato su Computational Stigmergy e Multi-Agent Policy Gradients ",
-            "author": "Perez Giuliano",
-            "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
-            "type": "MS",
-            "date": {
-                "day": 8,
-                "month": 6,
-                "year": 2020
-            },
-            "link" : "#"
-        },
-        {
             "title": "Using Deep Learning-based Object Detection to extract context-specific information from digitized documents",
             "author": "Alice Nannini",
             "advisors": "Mario G.C.A. Cimino, Gigliola Vaglini, Federico A. Galatolo",
