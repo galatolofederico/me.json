@@ -374,7 +374,7 @@
                 "year": 2022
             },
             "type": "conference",
-            "container": "",
+            "container": "Proceedings of the 3rd International Conference on Deep Learning Theory and Applications - DeLTA",
             "keywords": ["Machine Learning", "Convolutional Neural Networks", "Structural Health Monitoring"],
             "tags": ["unipi"],
             "volume" : "1",
