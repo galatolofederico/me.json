@@ -278,10 +278,10 @@
                 "year": 2021
             },
             "type": "conference",
-            "container": "Proceedings of the 24th International Conference on Enterprise Information Systems - Volume 1: ICEIS",
+            "container": "Proceedings of the 24th International Conference on Enterprise Information Systems",
             "keywords": ["Zero-shot", "Generative Pre-trained Transformers", "GPT-3", "Codex"],
             "tags": ["unipi"],
-            "volume" : "",
+            "volume" : "1",
             "issue": "",
             "pages": "479-483",
             "issn": "2184-4992",
