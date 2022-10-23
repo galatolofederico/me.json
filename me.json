@@ -997,7 +997,7 @@
             "title": "easyopt",
             "name": "easyopt",
             "description": "Super simple yet super powerful optuna-based no-code Hyperparameters Optimization Framework.",
-            "tags": ["personal", "unipi", "research"],
+            "tags": ["personal", "optimization", "research"],
             "date": {
                 "day": 18,
                 "month": 9,
@@ -1016,6 +1016,18 @@
                 "year": 2021
             },
             "link": "https://github.com/galatolofederico/math-codex"
+        },
+        {
+            "title": "michie",
+            "name": "michie",
+            "description": "Distributed high-throughput pythonic framework for multi-agent simulations",
+            "tags": ["personal", "simulation", "research"],
+            "date": {
+                "day": 22,
+                "month": 10,
+                "year": 2022
+            },
+            "link": "https://github.com/galatolofederico/michie"
         }
     ],
     "lectures":[
