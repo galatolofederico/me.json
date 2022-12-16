@@ -388,6 +388,30 @@
             "data": "",
             "abstract": "Structural Health Monitoring (SHM) of civil structures using IoT sensors is a major emerging challenge. SHM aims to detect and identify any deviation from a reference condition, typically a damage-free baseline, to keep track of the relevant structural integrity. Machine Learning (ML) techniques have recently been employed to empower vibration-based SHM systems. Supervised ML tends to achieve better accuracy than unsupervised ML, but it requires human intervention to label data appropriately. However, labelled data related to damage conditions of civil structures are often unavailable. To overcome this limitation, a key solution is a digital twin relying on physics-based numerical models to simulate the structural response in terms of the and vibration recordings provided by IoT devices during the events of interest, such as wind or seismic excitations. This paper presents such comprehensive approach, here framed to address the tasks of damage localization, exploiting a Convolutional Neural Network (CNN). Early experimental results relevant to a pilot application involving a sample structure, show the potential of the proposed approach, as well as the reusability of the trained system in presence of varying loading scenarios.",
             "name": "galatolodamagelocalization"
+        },
+        {
+            "title": "Deep Learning of Structural Changes in Historical Buildings: The Case Study of the Pisa Tower",
+            "authors": "Mario G.C.A. Cimino, Federico A. Galatolo, Marco Parola, Nicola Perilli, Nunziante Squeglia",
+            "date": {
+                "day": 1,
+                "month": 10,
+                "year": 2022
+            },
+            "type": "conference",
+            "container": "Proceedings of the 14th International Joint Conference on Computational Intelligence",
+            "keywords": ["Structural Health Monitoring", "Multi-sensor system", "Transformer", "LSTM", "Leaning Tower of Pisa"],
+            "tags": ["unipi"],
+            "volume" : "1",
+            "issue": "",
+            "pages": "396-403",
+            "issn": "2184-2825",
+            "isbn": "978-989-758-611-8",
+            "doi": "10.5220/0011551800003332",
+            "link": "https://pubs.galatolo.me/galatolopisatower.pdf",
+            "code": "https://github.com/galatolofederico/ncta2022",
+            "data": "",
+            "abstract": "",
+            "name": "galatolopisatower"
         }
     ],
     "advised_theses":[
