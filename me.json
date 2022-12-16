@@ -410,7 +410,7 @@
             "link": "https://pubs.galatolo.me/galatolopisatower.pdf",
             "code": "https://github.com/galatolofederico/ncta2022",
             "data": "",
-            "abstract": "",
+            "abstract": "Structural health monitoring of buildings via agnostic approaches is a research challenge. However, due to the recent advent of pervasive multi-sensor systems, historical data samples are still limited. Consequently, data-driven methods are often unfeasible for long-term assessment. Nevertheless, some famous historical buildings have been subject to monitoring for decades, before the development of smart sensors and Deep Learning(DL). This paper presents a DL approach for the agnostic assessment of structural changes. The proposed approach has been experimented to the stabilizing intervention carried out in 2000-2002 on the leaning tower of Pisa (Italy). The data set is made by operational and environmental measures collected from 1993 to 2006. Both conventional and recent approaches are compared: Multiple Linear regression, LSTM and Tansformer. Experimental results are promising, and clearly shows a better change sensitivity of the LSTM, as well as a better modeling accuracy of the Transformer",
             "name": "galatolopisatower"
         }
     ],
