@@ -412,6 +412,30 @@
             "data": "",
             "abstract": "Structural health monitoring of buildings via agnostic approaches is a research challenge. However, due to the recent advent of pervasive multi-sensor systems, historical data samples are still limited. Consequently, data-driven methods are often unfeasible for long-term assessment. Nevertheless, some famous historical buildings have been subject to monitoring for decades, before the development of smart sensors and Deep Learning(DL). This paper presents a DL approach for the agnostic assessment of structural changes. The proposed approach has been experimented to the stabilizing intervention carried out in 2000-2002 on the leaning tower of Pisa (Italy). The data set is made by operational and environmental measures collected from 1993 to 2006. Both conventional and recent approaches are compared: Multiple Linear regression, LSTM and Tansformer. Experimental results are promising, and clearly shows a better change sensitivity of the LSTM, as well as a better modeling accuracy of the Transformer",
             "name": "galatolopisatower"
+        },
+        {
+            "title": "TeTIm-Eval: a novel curated evaluation data set for comparing text-to-image models",
+            "authors": "Federico A. Galatolo, Mario G.C.A. Cimino, Edoardo Cogotti",
+            "date": {
+                "day": 16,
+                "month": 12,
+                "year": 2022
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Text-to-Image Model", "Deep Learning", "Curated Data Set", "Generative Image Model"],
+            "tags": ["unipi"],
+            "volume" : "1",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatolotetimeval.pdf",
+            "code": "https://github.com/galatolofederico/tetim-eval",
+            "data": "https://huggingface.co/datasets/galatolo/TeTIm-Eval",
+            "abstract": "Evaluating and comparing text-to-image models is a challenging problem. Significant advances in the field have recently been made, piquing interest of various industrial sectors. As a consequence, a gold standard in the field should cover a variety of tasks and application contexts. In this paper a novel evaluation approach is experimented, on the basis of: (i) a curated data set, made by high-quality royalty-free image-text pairs, divided into ten categories; (ii) a quantitative metric, the CLIP-score, (iii) a human evaluation task to distinguish, for a given text, the real and the generated images. The proposed method has been applied to the most recent models, i.e., DALLE2, Latent Diffusion, Stable Diffusion, GLIDE and Craiyon. Early experimental results show that the accuracy of the human judgement is fully coherent with the CLIP-score. The dataset has been made available to the public.",
+            "name": "galatolotetimeval"
         }
     ],
     "advised_theses":[
