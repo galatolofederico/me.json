@@ -436,6 +436,30 @@
             "data": "https://huggingface.co/datasets/galatolo/TeTIm-Eval",
             "abstract": "Evaluating and comparing text-to-image models is a challenging problem. Significant advances in the field have recently been made, piquing interest of various industrial sectors. As a consequence, a gold standard in the field should cover a variety of tasks and application contexts. In this paper a novel evaluation approach is experimented, on the basis of: (i) a curated data set, made by high-quality royalty-free image-text pairs, divided into ten categories; (ii) a quantitative metric, the CLIP-score, (iii) a human evaluation task to distinguish, for a given text, the real and the generated images. The proposed method has been applied to the most recent models, i.e., DALLE2, Latent Diffusion, Stable Diffusion, GLIDE and Craiyon. Early experimental results show that the accuracy of the human judgement is fully coherent with the CLIP-score. The dataset has been made available to the public.",
             "name": "galatolotetimeval"
+        },
+        {
+            "title": "Using deep learning and radar backscatter for mapping river water surface",
+            "authors": "Diana Orlandi, Federico A. Galatolo, Mario C. G. A. Cimino, Carolina Pagli, Nicola Perilli, Joao A. Pompeu, Itxaso Ruiz",
+            "date": {
+                "day": 11,
+                "month": 3,
+                "year": 2023
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning", "Convolutional Neural Networks", "Radar Backscatter"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatoloradarbackscatter.pdf",
+            "code": "https://github.com/galatolofederico/gistam2023",
+            "data": "",
+            "abstract": "In the last decades, the effects of global warming combined with growing anthropogenic activities have caused a mismatch in the water supply-demand, resulting in a negative impact on numerous Mediterranean rivers regime and on the functionality of related ecosystem services. Thus, for water management and mitigation of the potential hazards, it is fundamental to efficiently map areal extents of river water surface. Synthetic Aperture Radar (SAR) is one of the satellite technologies applied for hydrological studies, but it has a spatial resolution which is limited for the study of rivers. On the other side, deep learning technology exhibits a high modelling potential with low spatial resolution data. In this paper, a method based on convolutional neural networks is applied to the SAR backscatter coefficient for detecting river water surface. Our experimental study focuses on the lower reach of Mijares river (Eastern Spain), covering a period from Apr 2019 to Sept 2022. Results suggest that radar backscattering has high potential in modelling water river trends, contributing to the monitoring of the effects of climate change and impacts on related ecosystem services. To assess the effectiveness of the method, the output has been validated with the Normalized Difference Water Index (NDWI)",
+            "name": "galatoloradarbackscatter"
         }
     ],
     "advised_theses":[
