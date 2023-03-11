@@ -1100,6 +1100,18 @@
                 "year": 2022
             },
             "link": "https://github.com/galatolofederico/michie"
+        },
+        {
+            "title": "vanilla-llama",
+            "name": "vanilla-llama",
+            "description": "Plain pytorch hackable implementation of LLaMA",
+            "tags": ["personal", "research", "deep-learning"],
+            "date": {
+                "day": 11,
+                "month": 3,
+                "year": 2023
+            },
+            "link": "https://github.com/galatolofederico/vanilla-llama"
         }
     ],
     "lectures":[
