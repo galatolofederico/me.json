@@ -1112,6 +1112,18 @@
                 "year": 2023
             },
             "link": "https://github.com/galatolofederico/vanilla-llama"
+        },
+        {
+            "title": "text-generation-api",
+            "name": "text-generation-api",
+            "description": "Simple yet comprehensive REST API server for text generation with huggingface models",
+            "tags": ["personal", "research", "text-generation"],
+            "date": {
+                "day": 31,
+                "month": 5,
+                "year": 2023
+            },
+            "link": "https://github.com/galatolofederico/text-generation-api"
         }
     ],
     "lectures":[
