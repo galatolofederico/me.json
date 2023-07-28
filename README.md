@@ -2,7 +2,7 @@
 
 Myself as a JSON document.
 
-I use this file to generate my [personal site](https://galatolo.me). If you like it and if you want to make it yours follow the instructions in the [website repository](https://github.com/galatolofederico/galatolo.me)
+I use this file to generate my [personal site](https://galatolo.me). If you like it and if you want to make it yours follow the instructions in the [website repository](https://github.com/galatolofederico/personal-website-next)
 
 ## Structure
 
