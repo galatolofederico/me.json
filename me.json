@@ -479,11 +479,35 @@
             "issn": "",
             "isbn": "979-8-4007-0119-1",
             "doi": "10.1145/3583131.3590468",
-            "link": "https://pubs.galatolo.me/simionato_platelets.pdf",
+            "link": "https://pubs.galatolo.me/simionatoplatelets.pdf",
             "code": "https://github.com/GiadaSimionato/HDHSim",
             "data": "",
             "abstract": "Most of the applications of wireless sensor networks require the continuous coverage of a region of interest. The irregular deployment of the nodes, or their failure, could result in holes in the coverage, thus jeopardizing such requirement. Methods to recover the sensing capabilities usually demand the availability of redundant full-fledged nodes, whose relocation should heal the holes. These solutions, however, do not consider the high cost of obtaining redundant, typically complex, devices, nor that they could in turn fail. In this work, we propose a bio-inspired and emergent approach toward hole detection and healing using a swarm of resource-constrained agents with reduced sensing capabilities, whose behavior draws inspiration from the concepts underlying blood coagulation. The swarm follows three rules: activation, adhesion, and cohesion, adapted from the behavior exhibited by platelets during the human healing process. Relying only on local and relative information, the mobile agents can detect the holes border and place themselves in locally optimal positions to temporarily restore the service. To validate the algorithm, we have developed a distributed, multi-process simulator. Experimental results show that the proposed method efficiently detects and heals the holes, outperforming two state-of-the-art solutions. It also demonstrates good robustness and flexibility to agent failure.",
-            "name": "simionato_platelets"
+            "name": "simionatoplatelets"
+        },
+        {
+            "title": "Using Deep Learning with Attention to Detect Data Exfiltration by POS Malware",
+            "authors": "Gabriele Martino, Federico A. Galatolo, Mario G.C.A. Cimino, Christian Callegari",
+            "date": {
+                "day": 1,
+                "month": 3,
+                "year": 2023
+            },
+            "type": "conference",
+            "container": "International Conference on Enterprise Information Systems 2023",
+            "keywords": ["POS Malware", "Deep Learning", "Attention"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/martinopos.pdf",
+            "code": "https://github.com/GabMartino/RAMScrapersAttentionDetectors",
+            "data": "https://github.com/GabMartino/RAMScrapersAttentionDetectors",
+            "abstract": "In recent years, electronic payment through Point-of-Sale (POS) systems has become popular. For this reason, POS devices are becoming more targeted by cyber attacks. In particular, RAM scraping malware is the most dangerous threat: the card data is extracted from the process memory, during the transaction and before the encryption, and sent to the attacker. This paper focuses on the possibility to detect this kind of malware through anomaly detection based on Deep Learning with attention, using the network traffic with data exfiltration occurrences. To show the effectiveness of the proposed approach, real POS transaction traffic has been used, together with real malware traffic extracted from a collection of RAM scrapers. Early results show the high potential of the proposed approach, encouraging further comparative research. To foster further development, the data and source code have been publicly released.",
+            "name": "martinopos"
         },
         {
             "title": "",
