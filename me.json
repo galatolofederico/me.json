@@ -534,28 +534,28 @@
             "name": "paroladamage"
         },
         {
-            "title": "",
-            "authors": "",
+            "title": "Dense Information Retrieval on a Latin Digital Library via LaBSE and LatinBERT Embeddings",
+            "authors": "Federico A. Galatolo, Gabriele Martino, Mario G.C.A. Cimino, Chiara Ombretta Tommasi",
             "date": {
-                "day": 0,
-                "month": 0,
-                "year": 0
+                "day": 11,
+                "month": 7,
+                "year": 203
             },
             "type": "conference",
-            "container": "",
+            "container": "Proceedings of the 12th International Conference on Data Science, Technology and Applications",
             "keywords": ["Machine Learning"],
             "tags": ["unipi"],
-            "volume" : "",
+            "volume" : "1",
             "issue": "",
-            "pages": "",
-            "issn": "",
-            "isbn": "",
-            "doi": "",
-            "link": "",
-            "code": "",
-            "data": "",
-            "abstract": "",
-            "name": ""
+            "pages": "518-523",
+            "issn": "2184-285",
+            "isbn": "978-989-758-664-4",
+            "doi": "10.5220/0012134700003541",
+            "link": "https://pubs.galatolo.me/galatololatin.pdf",
+            "code": "https://huggingface.co/spaces/galatolo/serica-intelligent-search",
+            "data": "https://huggingface.co/spaces/galatolo/serica-intelligent-search",
+            "abstract": "Dense Information Retrieval (DIR) has recently gained attention due to the advances in deep learning-based word embedding. In particular, for historical languages such as Latin, a DIR task is appropriate although challenging, due to: (i) the complexity of managing searches using traditional Natural Language Processing (NLP); (ii) the availability of fewer resources with respect to modern languages; (iii) the large variation in usage among different eras. In this research, pre-trained transformer models are used as features extractors, to carry out a search on a Latin Digital Library. The system computes embeddings of sentences using state-of-the-art models, i.e., Latin BERT and LaBSE, and uses cosine distance to retrieve the most similar sentences. The paper delineates the system development and summarizes an evaluation of its performance using a quantitative metric based on expert’s per-query documents ranking. The proposed design is suitable for other historical languages. Early results show the higher potential of the LabSE model, encouraging further comparative research. To foster further development, the data and source code have been publicly released",
+            "name": "galatololatin"
         },
         {
             "title": "",
