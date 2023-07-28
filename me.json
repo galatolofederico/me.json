@@ -446,7 +446,7 @@
                 "year": 2023
             },
             "type": "conference",
-            "container": "",
+            "container": "roceedings of the 9th International Conference on Geographical Information Systems Theory, Applications and Management (2023)",
             "keywords": ["Machine Learning", "Convolutional Neural Networks", "Radar Backscatter"],
             "tags": ["unipi"],
             "volume" : "",
@@ -460,8 +460,103 @@
             "data": "",
             "abstract": "In the last decades, the effects of global warming combined with growing anthropogenic activities have caused a mismatch in the water supply-demand, resulting in a negative impact on numerous Mediterranean rivers regime and on the functionality of related ecosystem services. Thus, for water management and mitigation of the potential hazards, it is fundamental to efficiently map areal extents of river water surface. Synthetic Aperture Radar (SAR) is one of the satellite technologies applied for hydrological studies, but it has a spatial resolution which is limited for the study of rivers. On the other side, deep learning technology exhibits a high modelling potential with low spatial resolution data. In this paper, a method based on convolutional neural networks is applied to the SAR backscatter coefficient for detecting river water surface. Our experimental study focuses on the lower reach of Mijares river (Eastern Spain), covering a period from Apr 2019 to Sept 2022. Results suggest that radar backscattering has high potential in modelling water river trends, contributing to the monitoring of the effects of climate change and impacts on related ecosystem services. To assess the effectiveness of the method, the output has been validated with the Normalized Difference Water Index (NDWI)",
             "name": "galatoloradarbackscatter"
+        },
+        {
+            "title": "Swarms of Artificial Platelets for Emergent Hole Detection and Healing in Wireless Sensor Networks",
+            "authors": "Giada Simionato, Federico A. Galatolo, Mario C. G. A. Cimino",
+            "date": {
+                "day": 28,
+                "month": 7,
+                "year": 2023
+            },
+            "type": "conference",
+            "container": "GECCO '23: Proceedings of the Genetic and Evolutionary Computation Conference",
+            "keywords": ["Machine Learning", "Bio-Inspired", "Swarm Intelligence"],
+            "tags": ["unipi"],
+            "volume" : "1",
+            "issue": "",
+            "pages": "75-83",
+            "issn": "",
+            "isbn": "979-8-4007-0119-1",
+            "doi": "10.1145/3583131.3590468",
+            "link": "https://pubs.galatolo.me/simionato_platelets.pdf",
+            "code": "https://github.com/GiadaSimionato/HDHSim",
+            "data": "",
+            "abstract": "Most of the applications of wireless sensor networks require the continuous coverage of a region of interest. The irregular deployment of the nodes, or their failure, could result in holes in the coverage, thus jeopardizing such requirement. Methods to recover the sensing capabilities usually demand the availability of redundant full-fledged nodes, whose relocation should heal the holes. These solutions, however, do not consider the high cost of obtaining redundant, typically complex, devices, nor that they could in turn fail. In this work, we propose a bio-inspired and emergent approach toward hole detection and healing using a swarm of resource-constrained agents with reduced sensing capabilities, whose behavior draws inspiration from the concepts underlying blood coagulation. The swarm follows three rules: activation, adhesion, and cohesion, adapted from the behavior exhibited by platelets during the human healing process. Relying only on local and relative information, the mobile agents can detect the holes border and place themselves in locally optimal positions to temporarily restore the service. To validate the algorithm, we have developed a distributed, multi-process simulator. Experimental results show that the proposed method efficiently detects and heals the holes, outperforming two state-of-the-art solutions. It also demonstrates good robustness and flexibility to agent failure.",
+            "name": "simionato_platelets"
+        },
+        {
+            "title": "",
+            "authors": "",
+            "date": {
+                "day": 0,
+                "month": 0,
+                "year": 0
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "",
+            "code": "",
+            "data": "",
+            "abstract": "",
+            "name": ""
+        },
+        {
+            "title": "",
+            "authors": "",
+            "date": {
+                "day": 0,
+                "month": 0,
+                "year": 0
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "",
+            "code": "",
+            "data": "",
+            "abstract": "",
+            "name": ""
+        },
+        {
+            "title": "",
+            "authors": "",
+            "date": {
+                "day": 0,
+                "month": 0,
+                "year": 0
+            },
+            "type": "conference",
+            "container": "",
+            "keywords": ["Machine Learning"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "",
+            "code": "",
+            "data": "",
+            "abstract": "",
+            "name": ""
         }
-
     ],
     "advised_theses":[
         {
