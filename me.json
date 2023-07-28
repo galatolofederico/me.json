@@ -510,28 +510,28 @@
             "name": "martinopos"
         },
         {
-            "title": "",
-            "authors": "",
+            "title": "Convolutional Neural Networks for Structural Damage Localization on Digital Twins",
+            "authors": "Marco Parola, Federico A. Galatolo, Matteo Torzoni, Mario G. C. A. Cimino",
             "date": {
-                "day": 0,
-                "month": 0,
-                "year": 0
+                "day": 7,
+                "month": 7,
+                "year": 2023
             },
             "type": "conference",
-            "container": "",
-            "keywords": ["Machine Learning"],
+            "container": "DeLTA 2022: Deep Learning Theory and Applications",
+            "keywords": ["Machine Learning", "Damage Localization", "Digital Twins"],
             "tags": ["unipi"],
-            "volume" : "",
+            "volume" : "1",
             "issue": "",
-            "pages": "",
-            "issn": "",
+            "pages": "78-97",
+            "issn": "1865-0937",
             "isbn": "",
-            "doi": "",
-            "link": "",
-            "code": "",
-            "data": "",
-            "abstract": "",
-            "name": ""
+            "doi": "10.1007/978-3-031-37317-6_5",
+            "link": "https://pubs.galatolo.me/paroladamage.pdf",
+            "code": "https://github.com//MarcoParola//structural_health_monitoring",
+            "data": "https://github.com//MarcoParola//structural_health_monitoring",
+            "abstract": "Structural health monitoring (SHM) using IoT sensor devices plays a crucial role in the preservation of civil structures. SHM aims at performing an accurate damage diagnosis of a structure, that consists of identifying, localizing, and quantify the condition of any significant damage, to keep track of the relevant structural integrity. Deep learning (DL) architectures have been progressively introduced to enhance vibration-based SHM analyses: supervised DL approaches are integrated into SHM systems because they can provide very detailed information about the nature of damage compared to unsupervised DL approaches. The main drawback of supervised approach is the need for human intervention to appropriately label data describing the nature of damage, considering that in the SHM context, providing labeled data requires advanced expertise and a lot of time. To overcome this limitation, a key solution is a digital twin relying on physics-based numerical models to reproduce the structural response in terms of the vibration recordings provided by the sensor devices during a specific events to be monitored. This work presents a comprehensive methodology to carry out the damage localization task by exploiting a convolutional neural network (CNN) and parametric model order reduction (MOR) techniques to reduce the computational burden associated with the construction of the dataset on which the CNN is trained. Experimental results related to a pilot application involving a sample structure, show the potential of the proposed solution and the reusability of the trained system in presence of different loading scenarios",
+            "name": "paroladamage"
         },
         {
             "title": "",
