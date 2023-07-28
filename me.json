@@ -558,28 +558,28 @@
             "name": "galatololatin"
         },
         {
-            "title": "",
-            "authors": "",
+            "title": "Application of Deep Learning Model in the Sonographic Diagnosis of Uterine Adenomyosis",
+            "authors": "Diego Raimondo, Antonio Raffone, Anna Chiara Aru, Matteo Giorgi, Ilaria Giaquinto, Emanuela Spagnolo, Antonio Travaglino, Federico A. Galatolo, Mario G. C. A. Cimino, Jacopo Lenzi, Gabriele Centini, Lucia Lazzeri, Antonio Mollo, Renato Seracchioli, Paolo Casadio",
             "date": {
-                "day": 0,
-                "month": 0,
-                "year": 0
+                "day": 20,
+                "month": 1,
+                "year": 2023
             },
-            "type": "conference",
-            "container": "",
-            "keywords": ["Machine Learning"],
+            "type": "journal",
+            "container": "International Journal of Environmental Research and Public Health",
+            "keywords": ["Machine Learning", "Medical Imaging", "Adenomyosis"],
             "tags": ["unipi"],
-            "volume" : "",
+            "volume" : "1",
             "issue": "",
             "pages": "",
-            "issn": "",
+            "issn": "1660-4601",
             "isbn": "",
-            "doi": "",
-            "link": "",
+            "doi": "10.3390/ijerph20031724",
+            "link": "https://pubs.galatolo.me/raimondoadenomyosis.pdf",
             "code": "",
             "data": "",
-            "abstract": "",
-            "name": ""
+            "abstract": "Background: This study aims to evaluate the diagnostic performance of Deep Learning (DL) machine for the detection of adenomyosis on uterine ultrasonographic images and compare it to intermediate ultrasound skilled trainees. Methods: Prospective observational study were conducted between 1 and 30 April 2022. Transvaginal ultrasound (TVUS) diagnosis of adenomyosis was investigated by an experienced sonographer on 100 fertile-age patients. Videoclips of the uterine corpus were recorded and sequential ultrasound images were extracted. Intermediate ultrasound- skilled trainees and DL machine were asked to make a diagnosis reviewing uterine images. We evaluated and compared the accuracy, sensitivity, positive predictive value, F1-score, specificity and negative predictive value of the DL model and the trainees for adenomyosis diagnosis. Results: Accuracy of DL and intermediate ultrasound-skilled trainees for the diagnosis of adenomyosis were 0.51 (95% CI, 0.48–0.54) and 0.70 (95% CI, 0.60–0.79), respectively. Sensitivity, specificity and F1-score of DL were 0.43 (95% CI, 0.38–0.48), 0.82 (95% CI, 0.79–0.85) and 0.46 (0.42–0.50), respectively, whereas intermediate ultrasound-skilled trainees had sensitivity of 0.72 (95% CI, 0.52–0.86), specificity of 0.69 (95% CI, 0.58–0.79) and F1-score of 0.55 (95% CI, 0.43–0.66). Conclusions: In this preliminary study DL model showed a lower accuracy but a higher specificity in diagnosing adenomyosis on ultrasonographic images compared to intermediate-skilled trainees",
+            "name": "raimondoadenomyosis"
         }
     ],
     "advised_theses":[
