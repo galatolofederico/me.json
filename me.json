@@ -585,7 +585,7 @@
             "title": "Blockchain-based Shared Additive Manufacturing",
             "authors": "",
             "date": {
-                "day": 28,
+                "day": 29,
                 "month": 7,
                 "year": 2023
             },
@@ -599,7 +599,7 @@
             "issn": "1879-0550",
             "isbn": "",
             "doi": "10.1016/j.cie.2023.109497",
-            "link": "https://www.sciencedirect.com/science/article/pii/S0360835223005211",
+            "link": "https://pubs.galatolo.me/galatoloblockchain.pdf",
             "code": "https://github.com/galatolofederico/shared-manufacturing-simulator",
             "data": "https://github.com/galatolofederico/shared-manufacturing-simulator",
             "abstract": "Today, globalized markets require more resilient and agile manufacturing systems, as well as customized and virtualized features. Classical self-standing manufacturing systems are evolving into collaborative networks such as Cloud Manufacturing (based on centralized knowledge and distributed resources) or Shared Manufacturing (based on fully decentralized knowledge and distributed resources) as a solution to ensure business continuity under normal as well as special circumstances. Additive Manufacturing (AM), one of the enablers of Industry 4.0 (I4.0), is a promising technology for innovative production models due to its inherent distributed capabilities, digital nature, and product customization ability. To increase the adaptivity of distributed resources using AM technology, this paper proposes a mechanism for sharing workload and resources under unexpected behaviours in the supply chain. Smart contracts and blockchain technology in this concept are used to provide decentralized, transparent, and trusted operation of such systems, which provide more resilience to disruptive factors. In this paper, the proposed Blockchain-based Shared Additive Manufacturing (BBSAM) protocol, ontology, and workflow for AM capacity pooling are discussed and analysed under special conditions such as anomalous demand. Discrete-time Python simulation on a real Italian AM market dataset, also provided, is available on GitHub.",
