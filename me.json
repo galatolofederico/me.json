@@ -1268,6 +1268,18 @@
                 "year": 2023
             },
             "link": "https://github.com/galatolofederico/text-generation-api"
+        },
+        {
+            "title": "cerbero-7b",
+            "name": "cerbero-7b",
+            "description": "The first 100% Free and Open Source Italian Large Language Model (LLM) ready to be used for research or commercial applications.",
+            "tags": ["personal", "research", "text-generation"],
+            "date": {
+                "day": 27,
+                "month": 10,
+                "year": 2023
+            },
+            "link": "https://github.com/galatolofederico/cerbero-7b"
         }
     ],
     "lectures":[
