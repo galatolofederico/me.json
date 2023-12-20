@@ -1280,6 +1280,18 @@
                 "year": 2023
             },
             "link": "https://github.com/galatolofederico/cerbero-7b"
+        },
+        {
+            "title": "microchain",
+            "name": "microchain",
+            "description": "Simple, hackable, and pythonic function calling-based LLM agents framework",
+            "tags": ["personal", "research", "llm"],
+            "date": {
+                "day": 20,
+                "month": 12,
+                "year": 2023
+            },
+            "link": "https://github.com/galatolofederico/microchain"
         }
     ],
     "lectures":[
