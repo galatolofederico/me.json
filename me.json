@@ -1292,6 +1292,30 @@
                 "year": 2023
             },
             "link": "https://github.com/galatolofederico/microchain"
+        },
+        {
+            "title": "roq",
+            "name": "roq",
+            "description": "RPC over MQTT in Python",
+            "tags": ["personal", "rpc", "mqtt"],
+            "date": {
+                "day": 1,
+                "month": 4,
+                "year": 2024
+            },
+            "link": "https://github.com/galatolofederico/roq"
+        },
+        {
+            "title": "benchita",
+            "name": "benchita",
+            "description": "High quality few-shots benchmarks for Italian LLMs. ",
+            "tags": ["personal", "research", "llm", "eval"],
+            "date": {
+                "day": 15,
+                "month": 4,
+                "year": 2024
+            },
+            "link": "https://github.com/galatolofederico/benchita"
         }
     ],
     "lectures":[
