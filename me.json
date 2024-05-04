@@ -604,6 +604,78 @@
             "data": "https://github.com/galatolofederico/shared-manufacturing-simulator",
             "abstract": "Today, globalized markets require more resilient and agile manufacturing systems, as well as customized and virtualized features. Classical self-standing manufacturing systems are evolving into collaborative networks such as Cloud Manufacturing (based on centralized knowledge and distributed resources) or Shared Manufacturing (based on fully decentralized knowledge and distributed resources) as a solution to ensure business continuity under normal as well as special circumstances. Additive Manufacturing (AM), one of the enablers of Industry 4.0 (I4.0), is a promising technology for innovative production models due to its inherent distributed capabilities, digital nature, and product customization ability. To increase the adaptivity of distributed resources using AM technology, this paper proposes a mechanism for sharing workload and resources under unexpected behaviours in the supply chain. Smart contracts and blockchain technology in this concept are used to provide decentralized, transparent, and trusted operation of such systems, which provide more resilience to disruptive factors. In this paper, the proposed Blockchain-based Shared Additive Manufacturing (BBSAM) protocol, ontology, and workflow for AM capacity pooling are discussed and analysed under special conditions such as anomalous demand. Discrete-time Python simulation on a real Italian AM market dataset, also provided, is available on GitHub.",
             "name": "galatoloblockchain"
+        },
+        {
+            "title": "Image-based screening of oral cancer via deep ensemble architecture",
+            "authors": "Marco Parola, Gaetano La Mantia, Federico Galatolo, Mario GCA Cimino, Giuseppina Campisi, Olga Di Fede",
+            "date": {
+                "day": 12,
+                "month": 5,
+                "year": 2023
+            },
+            "type": "journal",
+            "container": "IEEE Symposium Series on Computational Intelligence (SSCI)",
+            "keywords": ["Deep Learning", "Object Detection", "Cancer"],
+            "tags": ["unipi"],
+            "volume" : "1",
+            "issue": "",
+            "pages": "1572-1578",
+            "issn": "",
+            "isbn": "",
+            "doi": "10.1109/SSCI52147.2023.10371865",
+            "link": "https://pubs.galatolo.me/galatolooral.pdf",
+            "code": "https://github.com/MarcoParola/detection_framework",
+            "data": "https://github.com/MarcoParola/detection_framework",
+            "abstract": "Oral squamous cell carcinoma (OSCC) is a significant health issue in the oral cancer domain; a screening tool for timely and accurate diagnosis is essential for effective treatmentplanning and prognosis in patients' life expectancy. In this paper, we address the problem of object detection and classification in the context of OSCC, by presenting a comparative analysis of three state-of-the-art architecture: YOLO, FasterRCNN, and DETR. We propose a deep learning ensemble model to address both object detection and classification problem leveraging the strengths of individual models to achieve higher performance than single models. The proposed architecture was evaluated on a real-world dataset developed by experienced clinicians who manually labeled individual photographic images, producing a benchmark dataset. Results from our comparative analysis demonstrates the ensemble detection model achieves superior performance compared to the individual models, outperforming the average value of the individual models' map@50 metric by 24% and the value of the map@95-50 metric by 44%<",
+            "name": "galatolooral"
+        },
+        {
+            "title": "Detection and Classification of Hysteroscopic Images Using Deep Learning",
+            "authors": "Diego Raimondo, Antonio Raffone, Paolo Salucci, Ivano Raimondo, Giampiero Capobianco, Federico Andrea Galatolo, Mario Giovanni Cosimo Antonio Cimino, Antonio Travaglino, Manuela Maletta, Stefano Ferla, and et al.",
+            "date": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "type": "journal",
+            "container": "Cancers",
+            "keywords":  ["Deep Learning", "Object Detection", "Cancer"],
+            "tags": ["unipi"],
+            "volume" : "2024",
+            "issue": "16",
+            "pages": "1315",
+            "issn": "",
+            "isbn": "",
+            "doi": "10.3390/cancers16071315",
+            "link": "https://pubs.galatolo.me/galatolohystero.pdf",
+            "code": "",
+            "data": "",
+            "abstract": "Background: Although hysteroscopy with endometrial biopsy is the gold standard in the diagnosis of endometrial pathology, the gynecologist experience is crucial for a correct diagnosis. Deep learning (DL), as an artificial intelligence method, might help to overcome this limitation. Unfortunately, only preliminary findings are available, with the absence of studies evaluating the performance of DL models in identifying intrauterine lesions and the possible aid related to the inclusion of clinical factors in the model. Aim: To develop a DL model as an automated tool for detecting and classifying endometrial pathologies from hysteroscopic images. Methods: A monocentric observational retrospective cohort study was performed by reviewing clinical records, electronic databases, and stored videos of hysteroscopies from consecutive patients with pathologically confirmed intrauterine lesions at our Center from January 2021 to May 2021. Retrieved hysteroscopic images were used to build a DL model for the classification and identification of intracavitary uterine lesions with or without the aid of clinical factors. Study outcomes were DL model diagnostic metrics in the classification and identification of intracavitary uterine lesions with and without the aid of clinical factors. Results: We reviewed 1500 images from 266 patients: 186 patients had benign focal lesions, 25 benign diffuse lesions, and 55 preneoplastic/neoplastic lesions. For both the classification and identification tasks, the best performance was achieved with the aid of clinical factors, with an overall precision of 80.11%, recall of 80.11%, specificity of 90.06%, F1 score of 80.11%, and accuracy of 86.74 for the classification task, and overall detection of 85.82%, precision of 93.12%, recall of 91.63%, and an F1 score of 92.37% for the identification task. Conclusion: Our DL model achieved a low diagnostic performance in the detection and classification of intracavitary uterine lesions from hysteroscopic images. Although the best diagnostic performance was obtained with the aid of clinical data, such an improvement was slight.",
+            "name": "galatolohystero"
+        },
+        {
+            "title": "Cerbero-7B: A Leap Forward in Language-Specific LLMs Through Enhanced Chat Corpus Generation and Evaluation",
+            "authors": "Federico A. Galatolo, Mario G.C.A. Cimino",
+            "date": {
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "type": "journal",
+            "container": "",
+            "keywords": ["Deep Learning", "Large Language Models"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/galatolocerbero.pdf",
+            "code": "",
+            "data": "",
+            "abstract": "This study introduces a novel approach for generating high-quality, language-specific chat corpora using a self-chat mechanism. We combine a generator LLM for creating new samples and an embedder LLM to ensure diversity. A new Masked Language Modelling (MLM) model-based quality assessment metric is proposed for evaluating and filtering the corpora. Utilizing the llama2-70b as the generator and a multilingual sentence transformer as embedder, we generate an Italian chat corpus and refine the Fauno corpus, which is based on translated English ChatGPT self-chat data. The refinement uses structural assertions and Natural Language Processing techniques. Both corpora undergo a comprehensive quality evaluation using the proposed MLM model-based quality metric. The Italian LLM fine-tuned with these corpora demonstrates significantly enhanced language comprehension and question-answering skills. The resultant model, cerbero-7b, establishes a new state-of-the-art for Italian LLMs. This approach marks a substantial advancement in the development of language-specific LLMs, with a special emphasis on augmenting corpora for underrepresented languages like Italian.",
+            "name": "galatolocerbero"
         }
     ],
     "advised_theses":[
