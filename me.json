@@ -1620,13 +1620,32 @@
                 "publisher": "IEEE",
                 "role": "Reviewer",
                 "link": "https://attend.ieee.org/ssci-2021/"
-            } 
+            },
+            {
+                "journal": "Artificial Intelligence Review",
+                "publisher": "Springer",
+                "role": "Reviewer",
+                "link": "https://link.springer.com/journal/10462"
+            }
         ],
         "conferences": [
             {
                 "conference": "International Conference on Image Processing and Vision Engineering 2021",
+                "publisher": "SciTePress",
                 "role": "Session Chair",
                 "link": "http://www.improve.scitevents.org/"
+            },
+            {
+                "conference": "International Conference on Enterprise Information Systems 2022",
+                "publisher": "SciTePress",
+                "role": "Session Chair",
+                "link": "https://iceis.scitevents.org/?y=2022"
+            },
+            {
+                "conference": "International Conference on Pattern Recognition Applications and Methods 2023",
+                "publisher": "INSTICC",
+                "role": "Session Chair",
+                "link": "https://icpram.scitevents.org/"
             }
         ]
     }
