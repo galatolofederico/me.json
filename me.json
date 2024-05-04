@@ -954,6 +954,66 @@
                 "year": 2022
             },
             "link" : "#"
+        },
+        {
+            "title": "Sviluppo di un testbed per la valutazione di architetture deep learning per text-to-image generation",
+            "author": "Edoardo Cogotti",
+            "advisors": "Mario G.C.A. Cimino, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 10,
+                "month": 10,
+                "year": 2023
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Explainable diagnosis of oral cancer via deep learning and case-based reasoning",
+            "author": "Orozco Amador Yuli Tatian",
+            "advisors": "Mario G.C.A. Cimino, Federico A. Galatolo, Marco Parola",
+            "type": "MS",
+            "date": {
+                "day": 10,
+                "month": 10,
+                "year": 2023
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Development of an intelligent monitoring system for protecting POS Systems from cyber threats",
+            "author": "Cecchelli Leonardo",
+            "advisors": "Mario G.C.A. Cimino, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 10,
+                "month": 10,
+                "year": 2023
+            },
+            "link" : "#"
+        },
+        {
+            "title": "A Machine Learning Approach For Credit Score Analysis",
+            "author": "Rambod Rahmani",
+            "advisors": "Mario G.C.A. Cimino, Federico A. Galatolo, Marco Parola",
+            "type": "MS",
+            "date": {
+                "day": 10,
+                "month": 10,
+                "year": 2023
+            },
+            "link" : "#"
+        },
+        {
+            "title": "Enhancing the Quality of Machine Translation Systems through Contextual Fine-tuning",
+            "author": "Valerio Giannini",
+            "advisors": "Mario G.C.A. Cimino, Federico A. Galatolo",
+            "type": "MS",
+            "date": {
+                "day": 10,
+                "month": 10,
+                "year": 2023
+            },
+            "link" : "#"
         }
     ],
     "projects":[
