@@ -1601,6 +1601,50 @@
             ]
         }
     ],
+    "courses":[
+        {
+            "title": "Computational Intelligence and Deep Learning (A.Y. 23/24)",
+            "name" : "cidl2324",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Artificial Intelligence and Data Engineering (MSc, II year)",
+            "date":{
+                "day": 1,
+                "month": 10,
+                "year": 2023
+            },
+            "resources": [
+                {
+                    "name": "Material",
+                    "link": "https://github.com/galatolofederico/cidl2324"
+                },
+                {
+                    "name": "Lectures",
+                    "link": "https://unimap.unipi.it/registri/dettregistriNEW.php?re=10337615::::&ri=039797"
+                }
+            ]
+        },
+        {
+            "title": "Calcolatori Elettronici (A.Y. 23/24)",
+            "name" : "calcolatori2324",
+            "position": "University of Pisa - Pisa (Italy)",
+            "container": "Ingegneria Informatica (BSc, II year)",
+            "date":{
+                "day": 1,
+                "month": 3,
+                "year": 2024
+            },
+            "resources": [
+                {
+                    "name": "Material",
+                    "link": "https://teams.microsoft.com/l/team/19%3AGg3vCKkimO21arlhhXC_5sQTH9xHDaZd7xpEzsv23CY1%40thread.tacv2/conversations?groupId=7e28c6ce-47de-48b3-8ca5-af5187bc95b8&tenantId=c7456b31-a220-47f5-be52-473828670aa1"
+                },
+                {
+                    "name": "Lectures",
+                    "link": "https://unimap.unipi.it/registri/dettregistriNEW.php?re=10340490::::&ri=039797"
+                }
+            ]
+        }
+    ],
     "roles": {
         "journals": [
             {
