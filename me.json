@@ -676,6 +676,30 @@
             "data": "https://huggingface.co/galatolo/cerbero-7b",
             "abstract": "This study introduces a novel approach for generating high-quality, language-specific chat corpora using a self-chat mechanism. We combine a generator LLM for creating new samples and an embedder LLM to ensure diversity. A new Masked Language Modelling (MLM) model-based quality assessment metric is proposed for evaluating and filtering the corpora. Utilizing the llama2-70b as the generator and a multilingual sentence transformer as embedder, we generate an Italian chat corpus and refine the Fauno corpus, which is based on translated English ChatGPT self-chat data. The refinement uses structural assertions and Natural Language Processing techniques. Both corpora undergo a comprehensive quality evaluation using the proposed MLM model-based quality metric. The Italian LLM fine-tuned with these corpora demonstrates significantly enhanced language comprehension and question-answering skills. The resultant model, cerbero-7b, establishes a new state-of-the-art for Italian LLMs. This approach marks a substantial advancement in the development of language-specific LLMs, with a special emphasis on augmenting corpora for underrepresented languages like Italian.",
             "name": "galatolocerbero"
+        },
+        {
+            "title": "Towards explainable oral cancer recognition: Screening on imperfect images via Informed Deep Learning and Case-Based Reasoning",
+            "authors": "",
+            "date": {
+                "day": 1,
+                "month": 10,
+                "year": 2024
+            },
+            "type": "journal",
+            "container": "Computerized Medical Imaging and Graphics",
+            "keywords": ["Deep Learning", ""],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "https://doi.org/10.1016/j.compmedimag.2024.102433",
+            "link": "https://pubs.galatolo.me/parolaoral.pdf",
+            "code": "https://github.com/MarcoParola/oral2",
+            "data": "https://github.com/MarcoParola/oral2",
+            "abstract": "Oral squamous cell carcinoma recognition presents a challenge due to late diagnosis and costly data acquisition. A cost-efficient, computerized screening system is crucial for early disease detection, minimizing the need for expert intervention and expensive analysis. Besides, transparency is essential to align these systems with critical sector applications. Explainable Artificial Intelligence (XAI) provides techniques for understanding models. However, current XAI is mostly data-driven and focused on addressing developers requirements of improving models rather than clinical users’ demands for expressing relevant insights. Among different XAI strategies, we propose a solution composed of Case-Based Reasoning paradigm to provide visual output explanations and Informed Deep Learning (IDL) to integrate medical knowledge within the system. A key aspect of our solution lies in its capability to handle data imperfections, including labeling inaccuracies and artifacts, thanks to an ensemble architecture on top of the deep learning (DL) workflow. We conducted several experimental benchmarks on a dataset collected in collaboration with medical centers. Our findings reveal that employing the IDL approach yields an accuracy of 85%, surpassing the 77% accuracy achieved by DL alone. Furthermore, we measured the human-centered explainability of the two approaches and IDL generates explanations more congruent with the clinical user demands.",
+            "name": "parolaoral"
         }
     ],
     "advised_theses":[
