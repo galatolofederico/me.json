@@ -247,22 +247,22 @@
         },
         {
             "title": "Optimizing sparse topologies via Competitive Joint Unstructured Neural Networks",
-            "authors": "Federico A. Galatolo, Mario G. C. A. Cimino, Gigliola Vaglini",
+            "authors": "Federico A. Galatolo, Mario G. C. A. Cimino",
             "date": {
-                "day": 15,
+                "day": 1,
                 "month": 10,
-                "year": 2021
+                "year": 2024
             },
             "type": "journal",
-            "container": "",
+            "container": "Progress in Artificial Intelligence",
             "keywords": ["Unstructured Neural Networks", "Sparse Neural Networks", "Competitive Neural Networks"],
             "tags": ["unipi"],
             "volume" : "",
             "issue": "",
-            "pages": "",
+            "pages": "1-15",
             "issn": "",
             "isbn": "",
-            "doi": "",
+            "doi": "https://doi.org/10.1007/s13748-024-00339-8",
             "link": "https://pubs.galatolo.me/galatolocjunn.pdf",
             "code": "https://github.com/galatolofederico/cjunn",
             "data": "",
