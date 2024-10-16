@@ -679,7 +679,7 @@
         },
         {
             "title": "Towards explainable oral cancer recognition: Screening on imperfect images via Informed Deep Learning and Case-Based Reasoning",
-            "authors": "",
+            "authors": "Marco Parola, Federico A. Galatolo, Gaetano La Mantia, Mario G.C.A. Cimino, Giuseppina Campisi, Olga Di Fede",
             "date": {
                 "day": 1,
                 "month": 10,
@@ -687,7 +687,7 @@
             },
             "type": "journal",
             "container": "Computerized Medical Imaging and Graphics",
-            "keywords": ["Deep Learning", ""],
+            "keywords": ["Deep Learning", "Computer Vision", "Oral Cancer"],
             "tags": ["unipi"],
             "volume" : "",
             "issue": "",
@@ -698,8 +698,32 @@
             "link": "https://pubs.galatolo.me/parolaoral.pdf",
             "code": "https://github.com/MarcoParola/oral2",
             "data": "https://github.com/MarcoParola/oral2",
-            "abstract": "Oral squamous cell carcinoma recognition presents a challenge due to late diagnosis and costly data acquisition. A cost-efficient, computerized screening system is crucial for early disease detection, minimizing the need for expert intervention and expensive analysis. Besides, transparency is essential to align these systems with critical sector applications. Explainable Artificial Intelligence (XAI) provides techniques for understanding models. However, current XAI is mostly data-driven and focused on addressing developers requirements of improving models rather than clinical users’ demands for expressing relevant insights. Among different XAI strategies, we propose a solution composed of Case-Based Reasoning paradigm to provide visual output explanations and Informed Deep Learning (IDL) to integrate medical knowledge within the system. A key aspect of our solution lies in its capability to handle data imperfections, including labeling inaccuracies and artifacts, thanks to an ensemble architecture on top of the deep learning (DL) workflow. We conducted several experimental benchmarks on a dataset collected in collaboration with medical centers. Our findings reveal that employing the IDL approach yields an accuracy of 85%, surpassing the 77% accuracy achieved by DL alone. Furthermore, we measured the human-centered explainability of the two approaches and IDL generates explanations more congruent with the clinical user demands.",
+            "abstract": "Oral squamous cell carcinoma recognition presents a challenge due to late diagnosis and costly data acquisition. A cost-efficient, computerized screening system is crucial for early disease detection, minimizing the need for expert intervention and expensive analysis. Besides, transparency is essential to align these systems with critical sector applications. Explainable Artificial Intelligence (XAI) provides techniques for understanding models. However, current XAI is mostly data-driven and focused on addressing developers requirements of improving models rather than clinical users demands for expressing relevant insights. Among different XAI strategies, we propose a solution composed of Case-Based Reasoning paradigm to provide visual output explanations and Informed Deep Learning (IDL) to integrate medical knowledge within the system. A key aspect of our solution lies in its capability to handle data imperfections, including labeling inaccuracies and artifacts, thanks to an ensemble architecture on top of the deep learning (DL) workflow. We conducted several experimental benchmarks on a dataset collected in collaboration with medical centers. Our findings reveal that employing the IDL approach yields an accuracy of 85%, surpassing the 77% accuracy achieved by DL alone. Furthermore, we measured the human-centered explainability of the two approaches and IDL generates explanations more congruent with the clinical user demands.",
             "name": "parolaoral"
+        },
+        {
+            "title": "Advanced Control of Humanoid Facial Robotics: A Deep Learning Approach to Inverse Kinematics",
+            "authors": "Graziano A. Manduzio, Federico Galatolo, Mario G. C. A. Cimino, Mattia Bruscia, Lorenzo Cominelli, Enzo Pasquale Scilingo",
+            "date": {
+                "day": 1,
+                "month": 10,
+                "year": 2024
+            },
+            "type": "journal",
+            "container": "",
+            "keywords": ["Deep Learning", "Inverse Kinematics", "Abel"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "",
+            "issn": "",
+            "isbn": "",
+            "doi": "",
+            "link": "https://pubs.galatolo.me/manduzioface.pdf",
+            "code": "",
+            "data": "",
+            "abstract": "In recent years, the robotics field has witnessed an unprecedented surge in the development of humanoid robots, which bear an increasingly close resemblance to human beings in appearance and functionality. This evolution has presented researchers with complex challenges, particularly in the domain of controlling the increasing number of robotic motors that animate these lifelike figures. This paper focuses on a novel approach to managing the intricate facial expressions of a hu- manoid face endowed with 22 degrees of freedom. We introduce a groundbreaking inverse kinematic model that leverages deep learning regression techniques to bridge the gap between the visual representation of human facial expressions and the corre- sponding servo motor configurations required to replicate these expressions. By mapping image space to servo motor space, our model enables precise, dynamic control over facial expressions, enhancing the robot's ability to engage in more nuanced and human-like interactions. Our methodology not only addresses the technical complexities associated with the fine-tuned control of facial motor servos but also contributes to the broader discourse on improving humanoid robots' social adaptability and interaction capabilities. Through extensive experimentation and validation, we demonstrate the efficacy and robustness of our approach, marking a significant advancement in humanoid robotics control systems.",
+            "name": "manduzioface"
         }
     ],
     "advised_theses":[
