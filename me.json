@@ -724,6 +724,30 @@
             "data": "",
             "abstract": "In recent years, the robotics field has witnessed an unprecedented surge in the development of humanoid robots, which bear an increasingly close resemblance to human beings in appearance and functionality. This evolution has presented researchers with complex challenges, particularly in the domain of controlling the increasing number of robotic motors that animate these lifelike figures. This paper focuses on a novel approach to managing the intricate facial expressions of a hu- manoid face endowed with 22 degrees of freedom. We introduce a groundbreaking inverse kinematic model that leverages deep learning regression techniques to bridge the gap between the visual representation of human facial expressions and the corre- sponding servo motor configurations required to replicate these expressions. By mapping image space to servo motor space, our model enables precise, dynamic control over facial expressions, enhancing the robot's ability to engage in more nuanced and human-like interactions. Our methodology not only addresses the technical complexities associated with the fine-tuned control of facial motor servos but also contributes to the broader discourse on improving humanoid robots' social adaptability and interaction capabilities. Through extensive experimentation and validation, we demonstrate the efficacy and robustness of our approach, marking a significant advancement in humanoid robotics control systems.",
             "name": "manduzioface"
+        },
+        {
+            "title": "Explainable screening of oral cancer via deep learning and case-based reasoning",
+            "authors": "Mario G.C.A. Cimino, Giuseppina Campisi, Federico A. Galatolo, Paolo Neri, Pietro Tozzo, Marco Parola, Gaetano La Mantia, Olga Di Fede",
+            "date": {
+                "day": 5,
+                "month": 1,
+                "year": 2025
+            },
+            "type": "journal",
+            "container": "Smart Health",
+            "keywords": ["Deep Learning", "Oral Cancer", "Medical Imaging"],
+            "tags": ["unipi"],
+            "volume" : "",
+            "issue": "",
+            "pages": "100538",
+            "issn": "",
+            "isbn": "",
+            "doi": "https://doi.org/10.1016/j.smhl.2024.100538",
+            "link": "https://pubs.galatolo.me/ciminoexplainableoral.pdf",
+            "code": "https://github.com/galatolofederico/oral-lesions-detection",
+            "data": "https://github.com/galatolofederico/oral-lesions-detection",
+            "abstract": "Oral Squamous Cell Carcinoma is characterized by significant mortality and morbidity. Dental professionals can play an important role in its early detection, thanks to the availability of embedded smart cameras for oral photos and remote screening supported by Deep Learning (DL). Despite the promising results of DL for automated detection and classification of oral lesions, its effectiveness is based on a clearly defined protocol, on the explainability of results, and on periodic cases collection. This paper proposes a novel method, combining DL and Case-Based Reasoning (CBR), to allow the post-hoc explanation of the system answer. The method uses explainability tools organized in a protocol defined in the Business Process Model and Notation (BPMN) to allow its experimental validation. A redesign of the Faster-R-CNN Feature Pyramid Networks (FPN) + DL architecture is also proposed for lesions detection and classification, fine-tuned on 160 cases belonging to three classes of oral ulcers. The DL system achieves state-of-the-art performance, i.e., 83% detection and 92% classification rate (98% for neoplastic vs. non-neoplastic binary classification). A preliminary experimentation of the protocol involved both resident and specialized doctors over selected difficult cases. The system and cases have been publicly released to foster collaboration between research centers.",
+            "name": "ciminoexplainableoral"
         }
     ],
     "advised_theses":[
